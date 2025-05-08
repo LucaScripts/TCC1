@@ -11,6 +11,11 @@ from sklearn.metrics import classification_report
 # Carregar os dados
 df = pd.read_csv('planilha_final.csv', encoding='latin1', sep=';')  # Lê o arquivo CSV com separador ';' e codificação 'latin1'
 
+# Remove classes com menos de 10 exemplos
+classe_counts = df['Situação (código)'].value_counts()  # Conta a quantidade de exemplos por classe
+classes_para_remover = classe_counts[classe_counts < 10].index  # Identifica classes com menos de 10 exemplos
+df = df[~df['Situação (código)'].isin(classes_para_remover)]  # Remove as classes com poucos exemplos
+
 # Separar features e variável alvo
 X = df.drop(columns=['Situação (código)'])  # Remove a coluna alvo do conjunto de features
 y = df['Situação (código)']  # Define a variável alvo
