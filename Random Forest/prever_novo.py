@@ -2,7 +2,7 @@
 import joblib
 
 # 1. Carregar o modelo treinado
-modelo = joblib.load('modelo_random_forest.pkl')
+modelo = joblib.load('modelo_random_forest.pkl')  # Carrega o modelo Random Forest treinado
 
 # 2. Criar um novo exemplo de aluno (com as mesmas colunas usadas no treino!)
 novo_aluno = pd.DataFrame([{
