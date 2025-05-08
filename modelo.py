@@ -8,6 +8,7 @@ matplotlib.use('Agg')  # Configura o matplotlib para modo sem interface gráfica
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
+import joblib
 
 # Carregar os dados
 df = pd.read_csv('planilha_final.csv', encoding='latin1', sep=';')  # Lê o arquivo CSV com separador ';' e codificação 'latin1'
@@ -73,3 +74,7 @@ modelo.fit(X_train_bal, y_train_bal)  # Treina o modelo com os dados balanceados
 y_pred = modelo.predict(X_test)  # Faz previsões no conjunto de teste
 print(classification_report(y_test, y_pred))  
 # Exibe o relatório de classificação com métricas como precisão, recall e F1-score
+
+# Salvar o modelo treinado
+joblib.dump(modelo, 'modelo_random_forest.pkl')  # Salva o modelo Random Forest em um arquivo .pkl
+print("Modelo salvo como modelo_random_forest.pkl")
