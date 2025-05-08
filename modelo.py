@@ -1,6 +1,7 @@
 ﻿import pandas as pd
 from sklearn.model_selection import train_test_split
 from imblearn.over_sampling import SMOTE
+import time  # Importa o módulo para gerar timestamps
 
 import matplotlib
 matplotlib.use('Agg')  # Configura o matplotlib para modo sem interface gráfica
@@ -28,18 +29,36 @@ X = X.drop(columns=colunas_para_remover)  # Remove as colunas categóricas do co
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)  
 # Divide os dados em treino (70%) e teste (30%) com uma semente fixa para reprodutibilidade
 
+# Dicionário para mapear códigos às siglas
+codigo_para_sigla = {
+    0: 'CAC', 1: 'CAI', 2: 'CAN', 3: 'CAU', 4: 'ES',
+    5: 'FO', 6: 'LAC', 7: 'LFI', 8: 'LFR', 9: 'MT',
+    10: 'NC', 11: 'NF', 12: 'TF', 13: 'TR'
+}
+
 # Exibir distribuição original
 print('Distribuição das classes (antes do SMOTE):')
 print(y_train.value_counts())  # Mostra a distribuição das classes no conjunto de treino
 
-# Plotar distribuição das classes
-y_train.value_counts().plot(kind='bar', title='Distribuição das Classes (Antes do SMOTE)')  
-# Cria um gráfico de barras para visualizar a distribuição das classes
-plt.xlabel('Classes')  # Define o rótulo do eixo X
+# Criar um mapeamento de código + sigla
+codigo_e_sigla = {codigo: f"{codigo} - {sigla}" for codigo, sigla in codigo_para_sigla.items()}
+
+# Substituir os códigos pelos rótulos combinados (código + sigla)
+y_train_rotulado = y_train.replace(codigo_e_sigla)
+
+# Plotar distribuição das classes com código e sigla
+y_train_rotulado.value_counts().plot(kind='bar', title='Distribuição das Classes (Antes do SMOTE)')
+plt.xlabel('Classes (Código + Sigla)')  # Define o rótulo do eixo X
 plt.ylabel('Quantidade')  # Define o rótulo do eixo Y
 plt.tight_layout()  # Ajusta o layout para evitar sobreposição
-plt.savefig('grafico_classes.png')  # Salva o gráfico em um arquivo
+
+# Gerar um nome único para o arquivo com timestamp
+timestamp = time.strftime("%Y%m%d-%H%M%S")  # Gera um timestamp no formato AAAAMMDD-HHMMSS
+nome_arquivo = f'grafico_classes_{timestamp}.png'  # Define o nome do arquivo com o timestamp
+plt.savefig(nome_arquivo)  # Salva o gráfico com o novo nome
 plt.close()  # Fecha o gráfico para liberar memória
+
+print(f"Gráfico salvo como: {nome_arquivo}")
 
 # Aplicar SMOTE
 smote = SMOTE(k_neighbors=1, random_state=42)  # Instancia o SMOTE com 1 vizinho e semente fixa
