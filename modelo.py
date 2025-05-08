@@ -3,7 +3,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 from imblearn.over_sampling import SMOTE
-import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('Agg')  # Usar backend que não abre janela
+
+import matplotlib.pyplot as plt  # <-- Faltava isso!
+import pandas as pd
 
 # Carregar os dados
 df = pd.read_csv('planilha_final.csv', encoding='latin1', sep=';')  # Usa separador correto!
@@ -18,7 +22,7 @@ print(y.value_counts())
 
 # Plotar gráfico de distribuição antes
 y.value_counts().plot(kind='bar', title='Distribuição das Classes (Antes do SMOTE)')
-plt.show()
+plt.savefig('grafico_classes.png')
 
 # Dividir entre treino e teste
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -33,7 +37,7 @@ print(pd.Series(y_train_bal).value_counts())
 
 # Plotar gráfico de distribuição depois
 pd.Series(y_train_bal).value_counts().plot(kind='bar', title='Distribuição das Classes (Depois do SMOTE)')
-plt.show()
+plt.savefig('grafico_classes.png')
 
 # Treinar modelo
 modelo = RandomForestClassifier(random_state=42)
