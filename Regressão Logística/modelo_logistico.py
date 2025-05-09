@@ -29,8 +29,14 @@ X = X.drop(columns=colunas_para_remover)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 # 6. Plotar a distribuição antes do balanceamento
-y_train.value_counts().plot(kind='bar', title='Distribuição das Classes (Antes do SMOTE)')
-plt.xlabel('Classes')
+# Criar uma coluna combinando a sigla e o código
+df['Sigla_Codigo'] = df['Situação'] + ' (' + df['Situação (código)'].astype(str) + ')'
+
+# Atualizar os rótulos do eixo X no gráfico
+y_train.value_counts().rename(index=lambda x: df[df['Situação (código)'] == x]['Sigla_Codigo'].iloc[0]).plot(
+    kind='bar', title='Distribuição das Classes (Antes do SMOTE)'
+)
+plt.xlabel('Classes (Sigla e Código)')
 plt.ylabel('Quantidade')
 plt.tight_layout()
 timestamp = time.strftime("%Y%m%d-%H%M%S")
