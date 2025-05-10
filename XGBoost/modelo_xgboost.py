@@ -24,7 +24,7 @@ X = df.drop(columns=['Situação (código)'])
 y = df['Situação (código)']
 
 # Remover colunas categóricas
-colunas_para_remover = ['Matrícula', 'Nome', 'Curso', 'Histórico de reprovações', 'Renda', 'Sexo', 
+colunas_para_remover = ['Matrícula', 'Nome', 'Curso', 'Renda', 'Sexo', 
                         'Bairro', 'Cidade', 'Turma Atual', 'Pend. Financ.', 'Situação', 'Descrição']
 X = X.drop(columns=colunas_para_remover)
 

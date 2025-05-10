@@ -22,7 +22,7 @@ X = df.drop(columns=['Situação (código)'])
 y = df['Situação (código)']
 
 # 4. Remover colunas categóricas
-colunas_para_remover = ['Matrícula','Nome','Curso','Histórico de reprovações','Renda','Sexo','Bairro','Cidade','Turma Atual','Pend. Financ.','Situação','Descrição']
+colunas_para_remover = ['Matrícula','Nome','Curso','Renda','Sexo','Bairro','Cidade','Turma Atual','Pend. Financ.','Situação','Descrição']
 X = X.drop(columns=colunas_para_remover)
 
 # 5. Separar treino e teste

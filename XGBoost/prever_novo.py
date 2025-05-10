@@ -8,10 +8,13 @@ modelo = joblib.load('modelo_xgboost.pkl')  # Carrega o modelo XGBoost treinado
 
 # 2. Criar um novo exemplo de aluno (com as mesmas colunas usadas no treino!)
 novo_aluno = pd.DataFrame([{
-    'Módulo atual': 2,
-    'Faltas Consecutivas': 1,
-    'Idade': 16,
-    'Sexo (código)': 1,
+    'Módulo atual': 1,
+    'Faltas Consecutivas': 0,
+    'Histórico de reprovações': 8,
+    'Histórico de Recuperação': 4,
+    'Historico de Reprovado por Falta (disciplinas)': 0,
+    'Idade': 19,
+    'Sexo (código)': 0, 
     'Pend. Acad.': 0,
     'Possui Pendência Financeira': 0,
     'Bolsista': 0,

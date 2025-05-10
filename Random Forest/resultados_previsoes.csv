@@ -1,11 +1,11 @@
-Módulo atual;Faltas Consecutivas;Idade;Sexo (código);Pend. Acad.;Possui Pendência Financeira;Bolsista;Antecipou Parcela;Previsão (Situação);Previsão (Sigla)
-2;3;16;1;0;0;1;0;8;LFR
-3;5;18;0;1;1;0;1;6;LAC
-1;2;17;1;0;0;1;0;2;CAN
-4;6;19;0;0;1;0;0;7;LFI
-2;4;20;1;1;0;1;1;9;MT
-3;1;21;0;0;0;0;0;9;MT
-1;0;22;1;0;0;1;0;9;MT
-5;7;23;0;1;1;0;1;7;LFI
-2;2;24;1;0;0;1;0;8;LFR
-4;3;25;0;0;1;0;0;10;NC
+Módulo atual;Faltas Consecutivas;Histórico de reprovações;Histórico de Recuperação;Historico de Reprovado por Falta (disciplinas);Idade;Sexo (código);Pend. Acad.;Possui Pendência Financeira;Bolsista;Antecipou Parcela;Previsão (Situação);Previsão (Sigla)
+2;3;0;3;1;16;1;0;0;1;0;9;MT
+3;5;1;0;2;18;0;1;1;0;1;7;LFI
+1;2;3;5;3;17;1;0;0;1;0;9;MT
+4;6;5;3;0;19;0;0;1;0;0;7;LFI
+2;4;0;0;5;20;1;1;0;1;1;6;LAC
+3;1;0;2;1;21;0;0;0;0;0;9;MT
+1;0;2;1;0;22;1;0;0;1;0;9;MT
+5;7;1;1;0;23;0;1;1;0;1;6;LAC
+2;2;0;0;0;24;1;0;0;1;0;2;CAN
+4;3;0;1;0;25;0;0;1;0;0;7;LFI

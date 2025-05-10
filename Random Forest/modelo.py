@@ -11,7 +11,7 @@ from sklearn.metrics import classification_report
 import joblib
 
 # Carregar os dados
-df = pd.read_csv('planilha_final2.csv', encoding='latin1', sep=';')  # Lê o arquivo CSV com separador ';' e codificação 'latin1'
+df = pd.read_csv('planilha_final.csv', encoding='latin1', sep=';')  # Lê o arquivo CSV com separador ';' e codificação 'latin1'
 
 # Remove classes com menos de 10 exemplos
 classe_counts = df['Situação (código)'].value_counts()  # Conta a quantidade de exemplos por classe
@@ -23,7 +23,7 @@ X = df.drop(columns=['Situação (código)'])  # Remove a coluna alvo do conjunt
 y = df['Situação (código)']  # Define a variável alvo
 
 # REMOVE colunas categóricas ANTES do split
-colunas_para_remover = ['Matrícula','Nome','Curso','Histórico de reprovações' , 'Renda', 'Sexo', 'Bairro', 'Cidade' , 'Turma Atual' , 'Pend. Financ.' ,'Situação', 'Descrição']  # Define as colunas categóricas a serem removidas
+colunas_para_remover = ['Matrícula','Nome','Curso', 'Renda', 'Sexo', 'Bairro', 'Cidade' , 'Turma Atual' , 'Pend. Financ.' ,'Situação', 'Descrição']  # Define as colunas categóricas a serem removidas
 X = X.drop(columns=colunas_para_remover)  # Remove as colunas categóricas do conjunto de features
 
 # Separar treino e teste

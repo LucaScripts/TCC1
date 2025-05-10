@@ -6,13 +6,16 @@ modelo = joblib.load('modelo_logistico.pkl')
 
 # 2. Criar novo aluno (com mesmas colunas usadas no treino)
 novo_aluno = pd.DataFrame([{
-    'Módulo atual': 2,
-    'Faltas Consecutivas': 3,
-    'Idade': 16,
-    'Sexo (código)': 1, 
+    'Módulo atual': 1,
+    'Faltas Consecutivas': 0,
+    'Histórico de reprovações': 3,
+    'Histórico de Recuperação': 4,
+    'Historico de Reprovado por Falta (disciplinas)': 0,
+    'Idade': 19,
+    'Sexo (código)': 0, 
     'Pend. Acad.': 0,
     'Possui Pendência Financeira': 0,
-    'Bolsista': 1,
+    'Bolsista': 0,
     'Antecipou Parcela': 0
 }])
 
