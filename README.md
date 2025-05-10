@@ -19,16 +19,26 @@ TCC_MVP1/
 │   ├── prever_em_lote.py
 │   ├── prever_novo.py
 │   ├── modelo_random_forest.pkl
-│   └── resultados_previsoes.csv
+│   ├── resultados_previsoes.csv
+│   ├──planilha_final.csv
+│   ├──alunos_para_prever.csv
+│   ├──requirements.txt
 ├── Regressão Logística/
 │   ├── modelo_logistico.py
+│   ├── prever_em_lote.py
+│   ├── prever_novo.py
 │   ├── modelo_logistico.pkl
+│   ├──planilha_final.csv
+│   ├──alunos_para_prever.csv
+│   ├──requirements.txt
 ├── XGBoost/
 │   ├── modelo_xgboost.py
+│   ├── prever_em_lote.py
+│   ├── prever_novo.py
 │   ├── modelo_xgboost.pkl
-├── planilha_final.csv
-├── alunos_para_prever.csv
-├── requirements.txt
+│   ├── planilha_final.csv
+│   ├── alunos_para_prever.csv
+│   ├── requirements.txt
 ```
 
 ---
@@ -110,12 +120,3 @@ Este projeto é parte integrante do Trabalho de Conclusão de Curso (TCC) do cur
 
 * **Lucas Dias da Silva**
   [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seuusuario)
-
----
-
-# 🚀
-
-## Quer que eu também te mande um `README.md` com algumas imagens (ex.: o gráfico das classes)? 🎨
-
-(pode deixar ele ainda mais visual e chamativo!)
-Quer? 🎯
