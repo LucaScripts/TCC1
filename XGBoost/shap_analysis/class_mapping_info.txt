@@ -1,0 +1,16 @@
+Labels iniciais presentes: [ 0  1  2  4  5  6  7  8  9 10]
+Labels finais contíguos: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nomes das classes finais: ['CAC', 'CAI', 'CAN/CAU', 'FO', 'LAC', 'LFI', 'LFR', 'MT', 'NC', 'TF']
+Número de classes finais: 10
+
+Mapeamento final (índice -> nome da classe):
+0: CAC
+1: CAI
+2: CAN/CAU
+3: FO
+4: LAC
+5: LFI
+6: LFR
+7: MT
+8: NC
+9: TF

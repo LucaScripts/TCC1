@@ -1,0 +1,5 @@
+Modelo carregado de: C:\Users\lucas\Downloads\TCC 1\tcc_mvp1\output\modelos\modelo_xgboost_otimizado_mapeado.pkl
+Tipo do modelo: <class 'xgboost.sklearn.XGBClassifier'>
+Número de features: 11
+Classes: [0 1 2 3 4 5 6 7 8 9]
+Número de classes: 10
