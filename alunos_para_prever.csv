@@ -1,12 +1,1044 @@
-Módulo atual;Faltas Consecutivas;Histórico de reprovações;Histórico de Recuperação;Historico de Reprovado por Falta (disciplinas);Idade;Sexo (código);Pend. Acad.;Possui Pendência Financeira;Bolsista;Antecipou Parcela
-2;3;0;3;1;16;1;0;0;1;0
-3;5;1;0;2;18;0;1;1;0;1
-1;2;3;5;3;17;1;0;0;1;0
-4;6;5;3;0;19;0;0;1;0;0
-2;4;0;0;5;20;1;1;0;1;1
-3;1;0;2;1;21;0;0;0;0;0
-1;0;2;1;0;22;1;0;0;1;0
-5;7;1;1;0;23;0;1;1;0;1
-2;2;0;0;0;24;1;0;0;1;0
-4;3;0;1;0;25;0;0;1;0;0
-1;0;0;0;0;30;0;0;0;0;0
+Matrícula;Nome;Curso;Módulo atual;Faltas Consecutivas;Histórico de reprovações;Histórico de Recuperação;Historico de Reprovado por Falta (disciplinas);Renda;Idade;Sexo;Sexo (código);Bairro;Cidade;Pend. Acad.;Turma Atual;Pend. Financ.;Possui Pendência Financeira;Bolsista;Antecipou Parcela;Situação;Descrição;Situação (código)
+ADM200057;David de Souza Vieira ;Curso Técnico em Administração;0;0;1;2;1;;22;M;0;Patagônia;Vitória da Conquista;1;ADM01-N        ;0;0;0;0;MT;Matriculado;9
+ADM210001;Eliane Sousa Oliveira Fagundes;Curso Técnico em Administração;0;0;1;3;2;;40;F;1;Zabelê;Vitória da Conquista;1;ADM01-N        ;0;0;0;0;MT;Matriculado;9
+ADM210061;Maxwell Bitencorth Santos;Curso Técnico em Administração;0;8;0;4;4;;21;M;0;São Pedro-Henriqueta Prates;Vitória da Conquista;1;ADM02-M        ;0;0;0;0;MT;Matriculado;9
+ADM220029;Thaily Ribeiro de Carvalho;Curso Técnico em Administração;0;0;0;0;0;;34;F;1;São Pedro;Vitória da Conquista;1;Indefinido;0;0;0;0;MT;Matriculado;9
+ADM220017;Lucimara Santos Silva;Curso Técnico em Administração;0;0;0;0;0;;34;F;1;Ibirapuera;Vitória da Conquista;0;Indefinido;0;0;0;0;MT;Matriculado;9
+ADM250056;Lorena dos Santos Gomes Soares;Curso Técnico em Administração;0;0;0;0;0;;19;F;1;Campinhos;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ANC200017;Laiza Silva de Oliveira;Curso Técnico em Análises Clínicas;0;0;3;1;1;;33;F;1;Guarani;Vitória da Conquista;0;ANC04-N        ;0;0;0;0;MT;Matriculado;9
+ELT200025;Kleber Mauricio de Castro Oliveira;Curso Técnico em Eletrotécnica;0;0;0;0;16;;35;M;0;Alto Maron;Vitória da Conquista;0;Indefinido;0;0;0;0;MT;Matriculado;9
+ELT200046;Jesuel Chaves Lima;Curso Técnico em Eletrotécnica;0;0;0;0;1;;36;M;0;Nossa Senhora Aparecida;Vitória da Conquista;0;Indefinido;PC;0;0;0;MT;Matriculado;9
+ENF210239;Mariana Santos Machado;Curso Técnico em Enfermagem ;0;0;0;0;1;;20;F;1;Patagônia;Vitória da Conquista;1;Indefinido;PC;0;0;0;MT;Matriculado;9
+RAD220025;Jorge Vinícius de Jesus Bispo;Curso Técnico em Radiologia;0;0;0;0;4;;21;M;0;Jatobá;Vitória da Conquista;1;Indefinido;PC;0;0;0;MT;Matriculado;9
+RAD220035;Thally Santos Meira;Curso Técnico em Radiologia;0;0;1;2;0;;25;F;1;Felícia-Morada dos Passaros;Vitória da Conquista;1;Indefinido;PC;0;0;0;MT;Matriculado;9
+RAD250054;Luan dos Santos Rocha;Curso Técnico em Radiologia;0;0;0;0;0;;26;M;0;Felícia;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+STB220027;Danilo da Silva ;Curso Técnico em Segurança do Trabalho;0;0;2;3;0;;32;M;0;Patagônia;Vitória da Conquista;1;Indefinido;PC;0;0;0;MT;Matriculado;9
+STB220036;Diego Lacerda de Sousa;Curso Técnico em Segurança do Trabalho;0;0;0;0;2;;23;M;0;Centro;Divisópolis;0;Indefinido;PC;0;0;0;MT;Matriculado;9
+ADM240100;Marina Ferreira Santos;Curso Técnico em Administração;3;0;0;6;3;;21;F;1;São Pedro;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240118;Dalila Pacheco Souza;Curso Técnico em Administração;3;0;0;1;7;;19;F;1;Bateias;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240119;Ariel Silva Santos;Curso Técnico em Administração;3;0;0;0;0;;17;F;1;Lagoa das Flores;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240111;Yasmin Cristina dos Santos Moura;Curso Técnico em Administração;3;0;0;0;0;;23;F;1;Ayrton Senna;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240126;Rosane Ferreira da Silva;Curso Técnico em Administração;3;0;0;0;0;;24;F;1;Patagônia;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM200038;Andressa de Jesus Santos;Curso Técnico em Administração;3;0;0;0;10;;24;F;1;Patagônia;Vitória da Conquista;0;ADM10-M;PC;0;0;0;MT;Matriculado;9
+ADM230128;Ruth Alves de Oliveira Pereira;Curso Técnico em Administração;3;0;0;0;0;;20;F;1;Inhobim;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240069;Thaís Moraes Dias;Curso Técnico em Administração;3;0;0;0;0;;27;F;1;Caiçara;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240075;Raama Morais Fagundes;Curso Técnico em Administração;3;0;0;0;0;;25;F;1;Boa Vista;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240077;Mariana da Conceição Santos;Curso Técnico em Administração;3;0;0;0;0;;21;F;1;José Gonçalves;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240085;Nayane Brito dos Santos;Curso Técnico em Administração;3;0;0;0;0;;20;F;1;Zona Rural ;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240089;Mathieli Almeida Brito;Curso Técnico em Administração;3;0;0;0;0;;23;F;1;Zona Rural;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240039;Sirleide Alves Santana de Jesus;Curso Técnico em Administração;3;0;0;0;0;;43;F;1;Candeias;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240041;Isabela Portugal Santos;Curso Técnico em Administração;3;0;0;0;0;;27;F;1;Patagônia;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240045;Helen da Silva Oliveira Lopes;Curso Técnico em Administração;3;0;0;0;0;;19;F;1;Candeias;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240055;Lorrane Alves Teixeira;Curso Técnico em Administração;3;0;0;0;0;;19;F;1;Zona Rural;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM230171;Sandra Penha Bastos;Curso Técnico em Administração;3;0;0;0;0;;34;F;1;Centro;Itambé;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM230173;Jaqueline Vieira Palmeira;Curso Técnico em Administração;3;0;0;0;4;;21;F;1;Zabelê;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM230168;Jéssica Mendes Cardoso;Curso Técnico em Administração;3;0;0;0;0;;30;F;1;Zabelê;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM230141;Ivy Jennifer Pinto Curcino;Curso Técnico em Administração;3;0;0;0;2;;18;M;0;Boa Vista;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM230162;Emanuela Ames da Silva;Curso Técnico em Administração;3;0;0;0;3;;45;F;1;Patagônia;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240014;Ana Carolina de Carvalho Santos;Curso Técnico em Administração;3;0;0;0;0;;22;F;1;Zabelê/ Senhorinha Cairo;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240098;Nicole Moraes da Silva;Curso Técnico em Administração;3;0;0;0;0;;20;F;1;José Gonçalves;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240093;Elizenes dos Santos Silva;Curso Técnico em Administração;3;0;0;0;0;;40;F;1;Ibirapuera;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240127;Júlia Cordeiro Chagas;Curso Técnico em Administração;3;0;0;0;0;;16;F;1;Cruzeiro;Vitória da Conquista;0;ADM10-M;0;0;0;0;MT;Matriculado;9
+ADM240006;Edson Marques da Silva;Curso Técnico em Administração;1;0;0;0;0;;37;M;0;Jurema;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240007;Brenda Souza Silva;Curso Técnico em Administração;1;1;0;0;0;;17;F;1;Morada Nova;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240009;Vinicius Batista Santos;Curso Técnico em Administração;1;0;0;0;0;;17;M;0;Cruzeiro;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240010;Geovana Santos Silva;Curso Técnico em Administração;1;0;0;1;0;;21;F;1;Distrito Industrial;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM230191;Rosiane Porto de Oliveira ;Curso Técnico em Administração;1;0;0;1;0;;26;F;1;Felícia;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240016;Iasmin Amaral dos Santos Miranda;Curso Técnico em Administração;1;0;0;3;0;;19;F;1;Espírito Santo;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240083;Naíla Lopes Salgado;Curso Técnico em Administração;1;0;0;0;1;;26;F;1;Jatoba;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240074;Gisele Pires de Lima;Curso Técnico em Administração;1;0;0;0;2;;20;F;1;Zabelê;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240053;Camila Santos Cruz;Curso Técnico em Administração;1;0;0;1;0;;20;F;1;Brasil;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240054;Maria Clara Santos Silva;Curso Técnico em Administração;1;0;0;0;0;;22;F;1;Centro;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240061;Naiara Gonçalves Teixeira;Curso Técnico em Administração;1;0;0;2;2;;29;F;1;Ibirapuera;Vitória da Conquista;0;ADM11-N;1;1;0;0;MT;Matriculado;9
+ADM240062;Fábio Correia de Souza;Curso Técnico em Administração;1;0;0;0;3;;31;M;0;Alto Maron;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240063;Marina Pires dos Santos;Curso Técnico em Administração;1;0;0;0;1;;32;F;1;Centro;Belo Campo;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240047;Vagner de Almeida sousa;Curso Técnico em Administração;1;0;0;2;1;;40;M;0;Jurema;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240056;Vanessa Novaes Oliveira;Curso Técnico em Administração;1;0;0;1;0;;27;F;1;Ibirapuera;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240044;Mariane Santos Cruz;Curso Técnico em Administração;1;0;0;0;0;;23;F;1;Alto Maron;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240037;Mirelle Lemos Silva Dias;Curso Técnico em Administração;1;0;0;0;2;;26;F;1;Recreio;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240018;Kauan Pina Neves;Curso Técnico em Administração;1;0;0;0;1;;21;M;0;Centro;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240022;Rosana Oliveira Leão;Curso Técnico em Administração;1;0;0;0;0;;47;F;1;Boa Vista;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240094;Paloma Santos Barbosa ;Curso Técnico em Administração;1;0;0;2;0;;19;F;1;Centro;Anagé;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240103;Liviane Oliveira do Prado ;Curso Técnico em Administração;1;0;0;0;0;;36;F;1;Espírito Santo;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM240109;Livia Ramos Santos;Curso Técnico em Administração;1;0;0;0;0;;22;F;1;Area Rural de Vitoria da Conquista;Vitória da Conquista;0;ADM11-N;0;0;0;0;MT;Matriculado;9
+ADM250052;Lorrane Barbosa da Silva;Curso Técnico em Administração;1;0;0;0;0;;17;F;1;Centro;Caraíbas;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250053;Ellen Andrade de Oliveira;Curso Técnico em Administração;1;0;0;0;0;;21;F;1;Nova Cidade;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250054;Maria Eduarda Prates Ferreira Santos;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Rural do Periquito;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250055;Cintia Barros Rocha;Curso Técnico em Administração;1;0;0;0;0;;40;F;1;Alto Maron;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250009;Douglas Soares Candido da Silva;Curso Técnico em Administração;1;0;0;0;3;;18;M;0;Boa Vista;Vitória da Conquista;0;ADM11-N;PC;0;0;0;MT;Matriculado;9
+RAD220030;Grasiele Ramos Santos;Curso Técnico em Radiologia;1;0;0;0;1;;23;F;1;Cruzeiro;Vitória da Conquista;0;ADM11-N;PC;0;0;0;MT;Matriculado;9
+ADM230048;Ana Stefane dos Santos Oliveira;Curso Técnico em Administração;1;0;0;0;0;;19;F;1;Patagônia;Vitória da Conquista;1;ADM12-M;PC;0;0;0;MT;Matriculado;9
+ADM230029;João Gustavo Rodrigues Lemos;Curso Técnico em Administração;1;0;1;0;0;;18;M;0;Ibirapuera;Vitória da Conquista;1;ADM12-M;PC;0;0;0;MT;Matriculado;9
+ADM240138;André Brito Santos;Curso Técnico em Administração;1;0;0;0;0;;20;M;0;Jatoba;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240161;Beatriz Chagas Santos;Curso Técnico em Administração;1;0;0;0;0;;22;F;1;Zabelê;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240166;Sofia Cunha Silva;Curso Técnico em Administração;1;0;0;0;1;;18;F;1;Santa Felicidade;Pocoes;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240167;Jean Flavio Ferreira Lima Coutinho ;Curso Técnico em Administração;1;0;0;0;0;;29;M;0;Vila Serrana I / Zabele;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240193;Sabrina de Souza dos Santos;Curso Técnico em Administração;1;1;0;0;1;;20;F;1;Cidade Modelo;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250003;Marco Antonio Adami do Valle Souza;Curso Técnico em Administração;1;0;0;0;0;;17;F;1;Candeias;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250004;Marisa de Jesus Silva;Curso Técnico em Administração;1;0;0;0;0;;36;F;1;Boa Vista;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250005;Gabriel Lucas Calazans Vieira ;Curso Técnico em Administração;1;0;0;0;0;;20;M;0;Candeias;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250006;Viviane Morais Teles;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Senhorinha Cairo;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250011;Stefany Quadros dos Santos;Curso Técnico em Administração;1;0;0;0;1;;19;F;1;São Pedro;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250018;Darlane Santos Almeida;Curso Técnico em Administração;1;0;0;0;0;;28;F;1;Boa Vista;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240176;Mariana de Oliveira da Silva;Curso Técnico em Administração;1;0;0;1;1;;21;F;1;Centro;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240183;Sandi da Silva Bonfim;Curso Técnico em Administração;1;0;0;0;0;;25;F;1;Centro;Barra do Choça;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240188;Renato Santana Pereira;Curso Técnico em Administração;1;0;0;0;1;;18;M;0;Lagoa das Flores;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM240191;Denise Santos Pacheco;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Centro;Anagé;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250029;Lucas Ferreira Ferraz da Silva;Curso Técnico em Administração;1;0;0;0;0;;19;M;0;Patagônia;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250030;Iara Gama de Paula;Curso Técnico em Administração;1;0;0;0;0;;24;F;1;Lagoa das Flores;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250031;Ana Carolina Silva Vieira;Curso Técnico em Administração;1;0;0;0;0;;20;F;1;Boa Vista - Vila América;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250033;Taina Carvalho Andrade;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Zabelê - Urbis V;Vitória da Conquista;0;ADM12-M;0;0;0;1;MT;Matriculado;9
+ADM250034;Taís Alves Gomes;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Barra Nova / Zona Rural;Barra do Choça;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250042;Maria Luísa Silva Gomes;Curso Técnico em Administração;1;6;0;0;1;;18;F;1;Espirito Santo;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250047;Natália Silva Tiago;Curso Técnico em Administração;1;6;0;0;1;;21;F;1;Alto Maron;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250048;Cleisson Sousa Oliveira;Curso Técnico em Administração;1;1;0;0;0;;18;M;0;Rural;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250049;Diogo Silva Ribeiro;Curso Técnico em Administração;1;0;0;0;0;;26;M;0;Espírito Santo;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250050;Marcos Felipe Silva Meira;Curso Técnico em Administração;1;1;0;0;0;;20;M;0;Cruzeiro;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250044;Fabricio Prates Ribeiro;Curso Técnico em Administração;1;1;0;0;0;;18;M;0;Candeias;Vitória da Conquista;0;ADM12-M;0;0;0;0;MT;Matriculado;9
+ADM250025;João Victor Barbosa Medeiros;Curso Técnico em Administração;1;0;0;0;0;;21;M;0;Alto Maron;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250026;Adriane Costa de Melo;Curso Técnico em Administração;1;0;0;1;0;;26;F;1;Pradoso;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250027;Stefane dos Anjos Sousa;Curso Técnico em Administração;1;0;0;0;0;;19;F;1;Jatoba;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250028;Erica dos Santos Freitas;Curso Técnico em Administração;1;0;0;0;0;;20;F;1;Bateias;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250035;Cainan Ribeiro Silva;Curso Técnico em Administração;1;0;0;0;0;;27;M;0;Patagônia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250036;Ingradi Daniele dos Santos Neves;Curso Técnico em Administração;1;0;0;0;1;;39;F;1;Zabele;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250037;Fabiana Dutra de Almeida;Curso Técnico em Administração;1;0;0;0;0;;34;F;1;Guarani;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250038;Rosângela Carvalho de Sousa;Curso Técnico em Administração;1;0;0;0;0;;26;F;1;Cruzeiro;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250039;Ione de Oliveira Prado;Curso Técnico em Administração;1;0;0;0;0;;31;F;1;Centro;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250040;Rebeca de Jesus Silva Pita;Curso Técnico em Administração;1;0;0;0;0;;22;F;1;Patagônia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250041;Angela Silva Santos;Curso Técnico em Administração;1;0;0;0;0;;28;F;1;Felícia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250043;Jéssica Santos de Jesus;Curso Técnico em Administração;1;0;0;0;0;;21;F;1;Primavera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250010;Ingrid dos Santos Assunção;Curso Técnico em Administração;1;0;0;0;0;;19;F;1;Espírito Santo;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240153;Sthéfane Morais Santos;Curso Técnico em Administração;1;0;0;0;2;;23;F;1;Centro;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240155;Thamires Sousa Quadros Gonçalves;Curso Técnico em Administração;1;0;0;0;0;;23;F;1;Ibirapuera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240156;Daniel Costa Baleeiro;Curso Técnico em Administração;1;0;0;0;0;;18;M;0;Ibirapuera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240157;Ivanildo de Oliveira Matos;Curso Técnico em Administração;1;0;0;0;1;;36;M;0;Bruno Barcelar;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240139;Maria Eduarda Amorim do Valle;Curso Técnico em Administração;1;0;0;0;1;;25;F;1;Guarani;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240141;David Viana de Sousa;Curso Técnico em Administração;1;0;0;0;3;;23;M;0;Primavera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240137;Geovana Silva Santos;Curso Técnico em Administração;1;0;0;0;0;;19;F;1;Patagônia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240170;Anderson Sales Libarino;Curso Técnico em Administração;1;0;0;1;1;;31;M;0;Brasil;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240159;Elves Dias Lima ;Curso Técnico em Administração;1;0;0;0;0;;35;M;0;Boa Vista;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250007;Cailane Ferreira Santos;Curso Técnico em Administração;1;0;0;0;0;;17;F;1;Patagônia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250019;Ana Cunha Silva;Curso Técnico em Administração;1;0;0;0;0;;42;F;1;Boa Vista;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250020;Esley William Torres Vera;Curso Técnico em Administração;1;0;0;0;0;;47;M;0;Primavera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250021;Karina Jesus Santos;Curso Técnico em Administração;1;0;0;0;0;;38;F;1;Felicia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250022;Ramon Alves Torres;Curso Técnico em Administração;1;0;0;0;0;;19;M;0;Primavera;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250012;Gustavo Santos Ferreira;Curso Técnico em Administração;1;0;0;0;0;;23;M;0;Boa Vista;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250013;Maria Luísa Cavalcanti Meira;Curso Técnico em Administração;1;0;0;0;0;;18;F;1;Comveima;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250014;Willian de Almeida Silva;Curso Técnico em Administração;1;0;0;0;0;;23;M;0;São Vicente;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250015;Pablo Ricardo Nunes Rodrigues;Curso Técnico em Administração;1;0;0;0;0;;18;M;0;São Vicente;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250016;Alexsandro Sousa Moreira ;Curso Técnico em Administração;1;0;0;0;0;;42;M;0;Povoado Estiva ;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM250017;Erica de Oliveira Dias ;Curso Técnico em Administração;1;0;0;0;0;;-1;F;1;Boa Vista/ Vila america;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240186;Lucele De Sousa Leal;Curso Técnico em Administração;1;0;0;0;0;;39;F;1;Guarani;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240187;Laisla Santana Matos;Curso Técnico em Administração;1;0;0;0;0;;24;F;1;Espírito Santo;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240177;Camila Santos Moreira;Curso Técnico em Administração;1;0;0;0;1;;20;F;1;Patagônia;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240181;Joseanne Pereira Amaral;Curso Técnico em Administração;1;0;0;0;0;;23;F;1;Area Rural de Vitoria da Conquista;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM240182;Danielhe Vitoria Ribeiro da Silva;Curso Técnico em Administração;1;0;0;0;1;;24;F;1;Centro;Vitória da Conquista;0;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM230102;Gildasio Guimarães Medrado Júnior;Curso Técnico em Administração;1;0;3;0;0;;25;M;0;Jurema;Vitória da Conquista;1;ADM13-N;PC;0;0;0;MT;Matriculado;9
+ADM230119;Amanda Cristina Matos Nobertino;Curso Técnico em Administração;1;0;0;0;3;;22;F;1;Espírito Santo;Vitória da Conquista;1;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM230116;Karine Sofia Costa Carvalho;Curso Técnico em Administração;1;0;0;0;0;;20;F;1;Felícia;Vitória da Conquista;1;ADM13-N;0;0;0;0;MT;Matriculado;9
+ADM230050;Raissa Pereira Severo;Curso Técnico em Administração;1;0;0;0;0;;21;F;1;Patagônia;Vitória da Conquista;1;ADM13-N;PC;0;0;0;MT;Matriculado;9
+ADM230061;Gisele Maria Prado Silva;Curso Técnico em Administração;1;0;0;0;0;;20;F;1;Brasil;Vitória da Conquista;1;ADM13-N;PC;0;0;0;MT;Matriculado;9
+ANC200037;Marina Aparecida Barros Silva;Curso Técnico em Análises Clínicas;4;0;0;0;1;;34;F;1;Patagônia;Vitória da Conquista;0;ANC04-N        ;PC;0;0;0;MT;Matriculado;9
+ELT220052;Diego Melo Carvalho;Curso Técnico em Eletrotécnica;1;0;0;0;0;;22;M;0;Lagoa das Flores;Vitória da Conquista;0;ELT08-N;PC;0;0;0;MT;Matriculado;9
+ELT220040;Alan Silva Nogueira;Curso Técnico em Eletrotécnica;1;0;2;0;7;;32;M;0;Espírito Santo-Renato Magalhães;Vitória da Conquista;0;ELT08-N;PC;0;0;0;MT;Matriculado;9
+ELT250012;Diogo Morais de Jesus;Curso Técnico em Eletrotécnica;1;0;0;0;0;;23;M;0;Boa Vista;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250013;Valério Anthony Moura Azevedo;Curso Técnico em Eletrotécnica;1;0;0;0;0;;20;F;1;Candeias;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250014;Manoel Lúcio Lima Viana;Curso Técnico em Eletrotécnica;1;0;0;0;0;;17;M;0;Guarani;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250015;Elvis Silva Gonçalves;Curso Técnico em Eletrotécnica;1;0;0;0;0;;20;M;0;Jurema;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250016;Willian de Oliveira Soares;Curso Técnico em Eletrotécnica;1;0;0;0;0;;47;M;0;Centro;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250018;Fabio Santos da Silva;Curso Técnico em Eletrotécnica;1;2;0;0;2;;36;M;0;Distrito industrial;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250019;Gustavo Santos Borges;Curso Técnico em Eletrotécnica;1;0;0;0;0;;17;M;0;Felícia;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250020;Eduardo dos Santos Jardim;Curso Técnico em Eletrotécnica;1;6;0;0;1;;21;M;0;Rural;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250021;Igor Pereira Araujo;Curso Técnico em Eletrotécnica;1;1;0;0;0;;21;M;0;Patagônia;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250022;Lucas Teixeira Santos;Curso Técnico em Eletrotécnica;1;0;0;0;0;;20;M;0;Espirito Santo;Jequié;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250007;Jeferson Oliveira Silva;Curso Técnico em Eletrotécnica;1;0;0;0;0;;33;M;0;Airton Senna;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250008;Rian Santos de Souza;Curso Técnico em Eletrotécnica;1;0;0;0;0;;19;M;0;Jatoba;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250009;Diogernes Moreira Silva;Curso Técnico em Eletrotécnica;1;0;0;0;0;;39;M;0;Espírito Santo;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250005;Roniel Fernandes Nunes;Curso Técnico em Eletrotécnica;1;0;0;0;0;;34;M;0;Zabelê;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250024;Rodrigo Rodrigues Sousa;Curso Técnico em Eletrotécnica;1;7;0;0;0;;22;M;0;Patagônia;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250025;Rebeca Lopes Souza;Curso Técnico em Eletrotécnica;1;0;0;0;0;;22;F;1;Boa Vista;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240042;Fagner Pereira Nunes ;Curso Técnico em Eletrotécnica;1;0;0;0;1;;28;M;0;Brasil;Vitória da Conquista;0;ELT08-N;1;1;0;0;MT;Matriculado;9
+ELT240050;Joilson Nascimento Rocha;Curso Técnico em Eletrotécnica;1;0;0;0;0;;25;M;0;Boa Vista;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240054;Jeferson Joaquim Sousa Lima;Curso Técnico em Eletrotécnica;1;0;0;0;0;;23;M;0;Espírito Santo;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240055;Daniel César Silva de Lima;Curso Técnico em Eletrotécnica;1;0;0;0;0;;23;M;0;Ibirapuera;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240058;Tulio Pablo Dias da Silva;Curso Técnico em Eletrotécnica;1;0;0;0;0;;34;M;0;Cidade Modelo ;Vitória da Conquista;0;ELT08-N;0;0;0;1;MT;Matriculado;9
+ELT240061;Danilo Lopes Pacheco;Curso Técnico em Eletrotécnica;1;0;0;0;0;;21;M;0;Zabelê;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240063;João Victor Alves Conceição;Curso Técnico em Eletrotécnica;1;0;0;0;0;;18;M;0;Zabelê;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT240064;Marilia Rodrigues Santos;Curso Técnico em Eletrotécnica;1;0;0;0;0;;40;F;1;Guarani;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT220068;Jonathan Mendes de Araujo de Lima;Curso Técnico em Eletrotécnica;1;0;0;0;2;;20;M;0;Felícia;Vitória da Conquista;0;ELT08-N;PC;0;0;0;MT;Matriculado;9
+ELT210032;Edson de Andrade Santos;Curso Técnico em Eletrotécnica;3;0;0;0;2;;28;M;0;Patagônia;Vitória da Conquista;0;ELT07-N;PC;0;0;0;MT;Matriculado;9
+ELT230080;Anderson Oliveira Alves;Curso Técnico em Eletrotécnica;3;0;0;0;0;;24;M;0;Miro Cairo;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230075;Gabriel Oliveira Cerqueira Santos;Curso Técnico em Eletrotécnica;3;0;0;0;0;;18;M;0;Nossa Senhora Aparecida;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230076;Fabio Oliveira Santos;Curso Técnico em Eletrotécnica;3;0;1;3;0;;40;M;0;Espírito Santo;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230071;Lucas Doratiotto Italiano Almeida;Curso Técnico em Eletrotécnica;3;0;0;0;0;;29;M;0;Brasil;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230072;Evandro Alves Santos;Curso Técnico em Eletrotécnica;3;0;0;2;1;;23;M;0;Jatobá;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230050;Abmael Roldão da Silva;Curso Técnico em Eletrotécnica;3;0;0;3;4;;36;M;0;Espírito Santo;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230056;Jânio de Jesus Rocha;Curso Técnico em Eletrotécnica;3;0;0;0;0;;48;M;0;Zabelê;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230061;Alex Pires de Almeida;Curso Técnico em Eletrotécnica;3;0;0;0;0;;31;M;0;Patagônia;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230064;Italo Santos de Oliveira;Curso Técnico em Eletrotécnica;3;0;0;0;0;;22;M;0;Boa Vista;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230065;Wescley de Andrade Castro;Curso Técnico em Eletrotécnica;3;0;0;0;0;;21;M;0;Zabelê;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240005;Otaviano Meira Amaral;Curso Técnico em Eletrotécnica;3;0;0;0;0;;33;M;0;Lagoa das Flores;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240006;Maicon Cruz Queiroz;Curso Técnico em Eletrotécnica;3;0;0;0;0;;26;M;0;Alto Maron;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240007;Vanderley Oliveira Bomfim Júnior;Curso Técnico em Eletrotécnica;3;0;0;0;0;;18;M;0;Ibirapuera;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230087;Gilvan Alves dos Santos;Curso Técnico em Eletrotécnica;3;0;0;0;0;;33;M;0;Nossa Senhora Aparecida;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT230088;Manoel Robson Barbosa de Castro;Curso Técnico em Eletrotécnica;3;0;0;0;0;;34;M;0;Zona Rural;Vitória da Conquista;0;ELT07-N;0;0;0;1;MT;Matriculado;9
+ELT230089;Edimarlei de Jesus Santos;Curso Técnico em Eletrotécnica;3;0;0;0;0;;30;M;0;Brasil;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240001;Julio Cesar de Jesus Silva;Curso Técnico em Eletrotécnica;3;0;0;0;0;;23;M;0;Boa Vista;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240022;Emerson Souza Queiroz;Curso Técnico em Eletrotécnica;3;0;0;0;1;;18;M;0;Centro;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240012;David Correia Cortes;Curso Técnico em Eletrotécnica;3;0;1;1;0;;23;M;0;Zabelê;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240017;Ariane de Souza Silva;Curso Técnico em Eletrotécnica;3;0;0;0;0;;20;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240014;Ernandes Santos Souza;Curso Técnico em Eletrotécnica;3;0;0;0;0;;36;M;0;Bateias;Vitória da Conquista;0;ELT07-N;0;0;0;0;MT;Matriculado;9
+ELT240015;Joeliton Gusmão Pereira;Curso Técnico em Eletrotécnica;3;0;0;1;0;;41;M;0;Ibirapuera;Vitória da Conquista;0;ELT07-N;0;0;0;1;MT;Matriculado;9
+ELT250026;George Almeida Santos Rezende;Curso Técnico em Eletrotécnica;1;0;0;0;0;;39;M;0;Candeias;Vitória da Conquista;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250023;Ualassi Santana dos Santos;Curso Técnico em Eletrotécnica;1;0;0;0;0;;24;M;0;Cidade Nova;Jequié;0;ELT08-N;0;0;0;0;MT;Matriculado;9
+ELT250011;Mauro Sérgio Lima da Silva;Curso Técnico em Eletrotécnica;2;1;0;1;1;;48;M;0;Ibirapuera;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT250003;Mauricio Silva Santos;Curso Técnico em Eletrotécnica;2;0;0;0;0;;48;M;0;Espírito Santo;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240051;Estandislau Vieira Neto;Curso Técnico em Eletrotécnica;2;1;0;0;0;;31;M;0;Felícia (Morada dos Passaros III);Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240033;Francisco Rodrigo Ferreira dos Santos ;Curso Técnico em Eletrotécnica;2;1;0;0;1;;29;M;0;Alto do Sumaré;Mossoró;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240029;Isaque da Silva Brito;Curso Técnico em Eletrotécnica;2;0;0;0;1;;21;M;0;Universidade;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240035;Wallison Lima Santos;Curso Técnico em Eletrotécnica;2;0;0;0;0;;36;M;0;Jardim Primavera;Juazeiro;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240020;Luis Claudio Silva Santos;Curso Técnico em Eletrotécnica;2;0;0;0;1;;47;M;0;Espírito Santo;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT240026;Vitor Gabriel Ramos Lima Barbosa ;Curso Técnico em Eletrotécnica;2;1;0;0;0;;23;M;0;Primavera;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ELT230068;Isac Nunes de Oliveira;Curso Técnico em Eletrotécnica;2;0;0;0;0;;24;M;0;Primavera;Vitória da Conquista;0;ELT06-M;0;0;0;1;MT;Matriculado;9
+ELT220047;Samuel Ramos Caldas ;Curso Técnico em Eletrotécnica;1;0;0;0;0;;26;M;0;Felícia;Vitória da Conquista;0;ELT06-M;0;0;0;0;MT;Matriculado;9
+ENF220006;Jôselene da Silva Leite Alcantara;Curso Técnico em Enfermagem ;4;0;2;0;0;;31;F;1;Ibirapuera;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF210221;Eliete Reis de Oliveira;Curso Técnico em Enfermagem ;4;0;1;0;2;;41;F;1;Brasil;Vitória da Conquista;0;ENF21-M;PC;0;0;0;MT;Matriculado;9
+ENF230243;Awany de Santana Souza;Curso Técnico em Enfermagem ;4;0;0;2;3;;21;F;1;Ibirapuera;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230185;Rosilane Lima Costa;Curso Técnico em Enfermagem ;4;0;0;0;0;;33;F;1;Distrito Industrial;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230177;Jusciele Silva dos Santos Coelho;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Jurema;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230166;Arielly Rigaud Coqueiro;Curso Técnico em Enfermagem ;4;0;2;0;0;;23;F;1;Miro Cairo;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230142;Elane Santana Costa;Curso Técnico em Enfermagem ;4;0;0;0;1;;31;F;1;Centro - CEAC;Planalto;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230137;Ivone Alves Dias Oliveira;Curso Técnico em Enfermagem ;4;0;0;1;0;;45;F;1;Centro - Cidade Jardim;Barra do Choça;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230118;Eloísa Santos Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;23;F;1;Brasil;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230128;Brenda Gomes Pinheiro;Curso Técnico em Enfermagem ;4;0;0;0;0;;21;F;1;Ibirapuera;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230097;Erica Silva Almeida;Curso Técnico em Enfermagem ;4;0;3;0;0;;20;F;1;Cruzeiro;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230098;Antoniel Rodrigues dos Santos ;Curso Técnico em Enfermagem ;4;0;0;0;0;;27;M;0;Alto Maron;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230090;Maiara Santos Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;20;F;1;Espírito Santo;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230084;Fabiana Marinho Almeida Soares;Curso Técnico em Enfermagem ;4;0;0;0;0;;35;F;1;Centro;Anagé;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230062;Gabriele Vilarinho Nolasco;Curso Técnico em Enfermagem ;4;0;1;1;0;;19;F;1;Guarani;Vitória da Conquista;0;ENF16-T;0;0;0;0;MT;Matriculado;9
+ENF230058;Jicarla Torres Moura;Curso Técnico em Enfermagem ;4;0;0;0;0;;42;F;1;Ibirapuera;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230056;Diana Pereira de Almeida ;Curso Técnico em Enfermagem ;4;0;1;0;0;;28;F;1;Centro;Belo Campo;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230010;Isaac Pereira de Souza;Curso Técnico em Enfermagem ;4;0;1;0;0;;26;M;0;Jatoba ;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230052;Kevellen Fernanda Santos Almeida;Curso Técnico em Enfermagem ;4;0;0;0;1;;18;F;1;Centro;Aracatu;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230045;Vanessa Nascimento de Oliveira;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;Bateias;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230026;Keila Ferreira da Silva;Curso Técnico em Enfermagem ;4;0;0;1;4;;20;F;1;Jatobá;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF230023;Elizete Cascais dos Santos;Curso Técnico em Enfermagem ;4;0;2;0;1;;47;F;1;Cruzeiro;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230012;Kéren de Oliveira Barbosa dos Santos;Curso Técnico em Enfermagem ;4;0;2;0;0;;25;F;1;Espírito Santo;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230018;Lucimar Santos Borges;Curso Técnico em Enfermagem ;4;0;0;0;0;;34;F;1;Boa Vista;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF230007;Gabrielly Santos de Morais;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;Primavera;Vitória da Conquista;0;ENF15-N;1;1;0;0;MT;Matriculado;9
+ENF220433;Natane Reis de Sousa;Curso Técnico em Enfermagem ;4;0;1;0;0;;24;F;1;Patagônia;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220422;Greice Miranda Raires;Curso Técnico em Enfermagem ;4;0;2;2;0;;28;F;1;Patagônia;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220416;Artur Pires Lima;Curso Técnico em Enfermagem ;4;0;0;1;3;;25;M;0;Alto Maron;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220413;Vanusa Carvalho dos Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;57;F;1;Santa Cruz;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220406;Fabiana Almeida Mota Rocha;Curso Técnico em Enfermagem ;4;0;1;0;0;;37;F;1;Patagônia;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220356;Maria Eduarda Pereira Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;Primavera;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220396;Fabiana Silva de Carvalho;Curso Técnico em Enfermagem ;4;0;1;0;0;;37;F;1;Alto Maron;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220397;Sabrina Jesus Muniz;Curso Técnico em Enfermagem ;4;0;0;0;0;;20;F;1;Centro;Tanhaçu;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF220359;Jaqueline Lopes dos Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Patagônia / Conjunto da Vitoria;Vitória da Conquista;0;ENF15-N;PC;0;0;0;MT;Matriculado;9
+ENF250063;Franciele da Silva Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;28;F;1;Centro - Vila Erika;Itapetinga;0;ENF16-T;PC;0;0;0;MT;Matriculado;9
+ENF210139;Camila Silva Nascimento;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;José Gonçalves;Vitória da Conquista;1;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210136;Angelica da Purificação França;Curso Técnico em Enfermagem ;4;0;0;0;1;;27;F;1;Lagoa das Flores;Vitória da Conquista;1;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210153;Vanessa Cruz Ribeiro ;Curso Técnico em Enfermagem ;4;0;3;0;1;;31;F;1;Guarani;Vitória da Conquista;1;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210165;Fernanda Santos Silva;Curso Técnico em Enfermagem ;4;0;1;1;2;;25;F;1;Felícia;Vitória da Conquista;1;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210116;Anne Caroline Melo de Oliveira;Curso Técnico em Enfermagem ;4;0;2;0;1;;26;F;1;Espírito Santo;Vitória da Conquista;1;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210055;Andresa Silva Sousa;Curso Técnico em Enfermagem ;4;0;1;1;7;;30;F;1;Patagônia;Vitória da Conquista;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF200178;Hellen Moreira Alves;Curso Técnico em Enfermagem ;4;0;1;2;3;;22;F;1;Bateias;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210224;Francielle Santos Brito ;Curso Técnico em Enfermagem ;4;0;2;0;7;;22;F;1;Cruzeiro;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210225;Eliane dos Santos Novais;Curso Técnico em Enfermagem ;4;0;1;0;8;;30;F;1;Ibirapuera;Vitória da Conquista;0;ENF05-N;2;1;0;0;MT;Matriculado;9
+ENF210214;Elis Regina Fonseca Brito;Curso Técnico em Enfermagem ;4;0;0;0;0;;52;F;1;Candeias/ Inoccop I;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210207;Vera Lucia Dantas Santos;Curso Técnico em Enfermagem ;4;0;0;1;2;;27;F;1;Distrito Industrial;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210193;Flávia Cristine Ribeiro Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;Patagônia;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210290;Vanessa Santana Sousa;Curso Técnico em Enfermagem ;4;0;0;0;5;;29;F;1;Espírito Santo;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF240051;Jenifer Silva Santos;Curso Técnico em Enfermagem ;2;0;0;0;2;;24;F;1;Patagônia;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240212;Dalvany Batista dos Santos Rocha;Curso Técnico em Enfermagem ;3;0;0;1;0;;37;F;1;Brasil;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240204;Maria de Oliveira Souto Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;44;F;1;Centro;Cândido Sales;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240206;Eliana Carneiro dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;26;F;1;Zona Rural;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240179;Gisele Viana da Silva Prado;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Itapirema;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240188;Marilede Borba Sousa;Curso Técnico em Enfermagem ;3;0;0;0;0;;51;F;1;José Gonçalves;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240021;Milena Carvalho dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;23;F;1;Zona Rural;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240031;Júlia Santos Araujo;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Centro;Planalto;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240032;Ana Karoline de Jesus Costa;Curso Técnico em Enfermagem ;3;0;0;0;0;;36;F;1;Felícia;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240037;Erica Ali Santana Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Jurema;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240057;Barbara Lima Paiva do Prado;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Ibirapuera;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240097;Alessandra Rocha de Sousa;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Centro;Caatiba;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240119;Jéssika Silva Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;26;F;1;Centro;Itambé;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240115;Maria Eduarda Regis Flores;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Alto Maron;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240101;Andreia Rodrigues Dias de Brito;Curso Técnico em Enfermagem ;3;0;0;0;0;;46;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240102;Maria Luiza Alves Medeiros;Curso Técnico em Enfermagem ;3;0;0;0;1;;23;F;1;Recreio;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240111;William Cerqueira Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;M;0;Centro;Itambé;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240166;Gabriel de Oliveira Gomes;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;M;0;Campinhos;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240161;Laiane Novais Santos;Curso Técnico em Enfermagem ;3;0;2;1;0;;20;F;1;Zona Rural;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240163;Carla Sousa dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;F;1;Centro;Barra do Choça;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240164;Jessy Sthefane Viana dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Brasil;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240129;Elizânia de Jesus Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;24;F;1;Ibirapuera;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240158;Aline Silva Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;23;F;1;Area Rural de Vitoria da Conquista;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240137;Jéssica Coelho Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;31;F;1;Patagônia;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240141;Maria Luisa Santos Sousa;Curso Técnico em Enfermagem ;3;0;1;2;0;;24;F;1;Ibirapuera;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240142;Andressa Ramos da Silva;Curso Técnico em Enfermagem ;3;0;2;1;0;;26;F;1;Patagônia;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240139;Vitoria Cortes Martins;Curso Técnico em Enfermagem ;3;0;0;1;0;;19;F;1;Zabelê;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240146;Soffia Teixeira Chaves;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Centro;José Gonçalves;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF230416;Breno Santos Lima;Curso Técnico em Enfermagem ;3;0;0;0;1;;22;M;0;Patagônia;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF240019;Vitor Santos Souza;Curso Técnico em Enfermagem ;3;0;0;0;0;;33;M;0;Airton Senna;Vitória da Conquista;0;ENF21-M;0;0;0;0;MT;Matriculado;9
+ENF200206;Eduarda Alves Lima;Curso Técnico em Enfermagem ;3;0;0;1;3;;34;F;1;Cercadinho;Vitória da Conquista;1;ENF21-M;PC;0;0;0;MT;Matriculado;9
+ENF230013;Bismark Oliveira Lima;Curso Técnico em Enfermagem ;4;2;1;0;9;;19;M;0;Felícia;Vitória da Conquista;1;ENF14-M;PC;0;0;0;MT;Matriculado;9
+ENF230046;Ingrid Sousa Maia ;Curso Técnico em Enfermagem ;4;0;0;0;4;;26;F;1;Patagônia;Vitória da Conquista;1;ENF14-M;0;0;0;0;MT;Matriculado;9
+ENF230092;Danieli de Oliveira Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;20;F;1;Patagônia;Vitória da Conquista;1;ENF14-M;0;0;0;0;MT;Matriculado;9
+ENF230188;Deiziane da Silva Santos;Curso Técnico em Enfermagem ;4;0;1;1;1;;30;F;1;Inhobim;Vitória da Conquista;1;ENF14-M;1;1;0;0;MT;Matriculado;9
+ENF230003;Emanuela de Jesus Lima;Curso Técnico em Enfermagem ;4;0;0;0;0;;21;F;1;Cruzeiro;Vitória da Conquista;0;ENF15-N;0;0;0;0;MT;Matriculado;9
+ENF220430;Rebeca Sousa dos Santos;Curso Técnico em Enfermagem ;4;1;0;0;0;;20;F;1;Centro;Caraíbas;1;ENF14-M;PC;0;0;0;MT;Matriculado;9
+ENF220086;Vanderleia Santos Souza;Curso Técnico em Enfermagem ;4;0;0;1;6;;28;F;1;Vila America;Vitória da Conquista;1;ENF14-M;PC;0;0;0;MT;Matriculado;9
+ENF210265;Gleice Santos Ferreira;Curso Técnico em Enfermagem ;4;0;0;1;3;;22;M;0;Recreio;Vitória da Conquista;0;ENF18-M;PC;0;0;0;MT;Matriculado;9
+ENF210161;Silvanera Santos Almeida Marinho;Curso Técnico em Enfermagem ;1;0;0;0;0;;38;F;1;Espírito Santo-Vila Elisa;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250064;Edilaine Lemos Pereira da Silva ;Curso Técnico em Enfermagem ;1;0;0;0;0;;36;F;1;Patagônia;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250072;José Carlos Cardoso de Almeida;Curso Técnico em Enfermagem ;1;0;0;0;0;;31;M;0;Panorama;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250075;Cailane Brito de Araújo;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Centro;Pradoso;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250053;Érico Costa Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;30;M;0;Bateias;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250068;Midia Rejane Santos de Jesus;Curso Técnico em Enfermagem ;1;0;0;0;0;;41;F;1;Alto Maron;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250077;Roseneia Silva Sousa;Curso Técnico em Enfermagem ;1;0;0;0;0;;32;F;1;Primavera;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250078;Milena Mendonça de Jesus Nogueira;Curso Técnico em Enfermagem ;1;0;0;0;0;;21;F;1;Centro;Anagé;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250079;Elisânia Xavier Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;21;F;1;Centro;Maetinga;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250085;João Batista Lima Reis;Curso Técnico em Enfermagem ;1;0;0;0;0;;34;M;0;Alto Maron;Vitória da Conquista;0;ENF26-N;1;1;0;0;MT;Matriculado;9
+ENF250086;Talita Santos Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Campinhos ;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250087;William Pereira Barbosa;Curso Técnico em Enfermagem ;1;0;0;0;0;;31;M;0;Lagoa das Flores;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250090;Suelen Pereira dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;São Pedro;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250094;Stefane Jesus Leal;Curso Técnico em Enfermagem ;1;0;0;0;0;;29;F;1;Centro;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250096;Geoliane Santos Barbosa;Curso Técnico em Enfermagem ;1;0;0;0;0;;33;F;1;Zabele;Vitória da Conquista;0;ENF27-N;0;0;0;1;MT;Matriculado;9
+ENF250029;Denize Silva Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;30;F;1;Espírito Santo;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250037;Paloma Santos Gomes de Paulo;Curso Técnico em Enfermagem ;1;0;0;0;0;;26;F;1;Centro;Anagé;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250040;Gabriele Silva Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Espírito Santo;Vitória da Conquista;0;ENF26-N;1;1;0;0;MT;Matriculado;9
+ENF250041;Stephanie Cristina Almeida;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Espírito Santo;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250045;Larissa Andrade Rodrigues;Curso Técnico em Enfermagem ;1;0;0;0;0;;27;F;1;Felícia;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250046;Natália Carla de Almeida Oliveira Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Centro;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250047;Thaíse Santos da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Kadija;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250033;Edilene de Oliveira Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Cruzeiro;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250034;Mateus Santos de Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;25;M;0;Jatobá;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250049;Amanda Alves Carvalho;Curso Técnico em Enfermagem ;1;0;0;0;0;;26;F;1;Patagônia;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250050;Andressa Gomes Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;27;F;1;Patagonia;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250055;Maria Clara Brito Pereira;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Campinhos;Vitória da Conquista;0;ENF26-N;2;1;0;0;MT;Matriculado;9
+ENF250056;Wallas Soares Prates;Curso Técnico em Enfermagem ;1;0;0;0;0;;31;M;0;Primavera;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250057;Emanuely Oliveira Santos Cerqueira;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250058;Uciaria Costa Matos;Curso Técnico em Enfermagem ;1;0;0;0;0;;27;F;1;Centro;Anagé;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250059;Graciela Oliveira Silva Brito;Curso Técnico em Enfermagem ;1;0;0;0;0;;43;F;1;Jardim Guanabara;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250129;Ana Paula Sousa Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Cidade Modelo;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250130;Fernanda Aparecida Ferreira de Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Ibirapuera;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250132;Rosilene Leal Sampaio Bastos;Curso Técnico em Enfermagem ;1;0;0;0;0;;40;F;1;Zabelê;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250133;Luana Santos de Oliveira Falcão;Curso Técnico em Enfermagem ;1;0;0;0;0;;38;F;1;Ibirapuera;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250134;Faraildes Bleza de Almeida;Curso Técnico em Enfermagem ;1;0;0;0;0;;53;F;1;Candeias;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250135;Edenilson Dias de Jesus;Curso Técnico em Enfermagem ;1;0;0;0;0;;26;M;0;Senhorinha Cairo;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250136;Yasmin Victória Medrado de Andrade;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Nova Cidade;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250137;Evily Raiane Soares Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Miro Cairo;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250138;Lucinete de Sousa Portela;Curso Técnico em Enfermagem ;1;0;0;0;0;;44;F;1;Campinhos;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250116;Naielly Barbosa Lima;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Centro;Itambé;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250117;Keila Marcele Silva Rodrigues;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Brasil;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250118;Millena Souza Alcântara;Curso Técnico em Enfermagem ;1;0;0;0;0;;31;F;1;Nossa Senhora de Lourdes;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250119;Helio Henrique Amaro Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;M;0;Felícia;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250120;Laiza Eduarda Rocha Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Jatoba;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250123;Sâmela de Santana de Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;27;F;1;Bateias - Urbis 5;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250124;Sara Lopes Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Boa Vista;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250126;João Pedro Alves de Lima de Sousa;Curso Técnico em Enfermagem ;1;0;0;0;0;;21;M;0;Urbis IV;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250105;Marcia Oliveira de Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;37;F;1;Loteamento Curtiba;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250106;Adriana Dutra Pinheiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;43;F;1;Boa Vista;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250108;Álvaro Santos Teles;Curso Técnico em Enfermagem ;1;0;0;0;0;;21;M;0;Alegria;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250109;Renata Rocha Freire;Curso Técnico em Enfermagem ;1;0;0;0;0;;38;F;1;Boa Vista;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250110;Janaína Rodrigues de Almeida;Curso Técnico em Enfermagem ;1;0;0;0;0;;46;F;1;Patagônia;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250111;Janaína Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Centro;Barra do Choça;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250112;Maria Luisa de Barros;Curso Técnico em Enfermagem ;1;0;0;0;0;;59;F;1;Espírito Santo;Vitória da Conquista;0;ENF28-M;0;0;0;0;MT;Matriculado;9
+ENF250101;Thaís Andrade Santos ;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Sobradinho;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250102;Jaqueline dos Santos Alves;Curso Técnico em Enfermagem ;1;0;0;1;0;;19;F;1;Morada Nova;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF250103;Cecília Soares Nogueira;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Guarani;Vitória da Conquista;0;ENF26-N;0;0;0;0;MT;Matriculado;9
+ENF250114;Ana Mara Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;49;F;1;Patagônia;Vitória da Conquista;0;ENF27-N;0;0;0;0;MT;Matriculado;9
+ENF240126;Breno Oliveira dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;M;0;Bateias;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240113;Israel Gomes Azevedo;Curso Técnico em Enfermagem ;3;0;0;0;0;;26;F;1;Jatobá;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240140;Jovelina Vieira dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;47;F;1;Guarani;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240151;Neuma Freire de Oliveira;Curso Técnico em Enfermagem ;3;0;1;0;1;;39;F;1;Felícia;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240152;Ane Terezinha Santos Gomes;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Vila Serrana III;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240143;Bianca Ramos Nascimento ;Curso Técnico em Enfermagem ;3;0;1;0;0;;18;F;1;Ayrton Senna;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240159;Solange Gonçalves de Jesus Costa;Curso Técnico em Enfermagem ;3;0;0;0;0;;33;F;1;Ayrton Senna;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240157;Aurea Rosa da Silva;Curso Técnico em Enfermagem ;3;0;0;1;0;;56;F;1;Ibirapuera;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240162;Ruy Borges Porto;Curso Técnico em Enfermagem ;3;0;0;0;0;;46;M;0;Jatobá;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240167;Beatriz Santana Santos;Curso Técnico em Enfermagem ;3;0;0;2;2;;22;F;1;Ibirapuera ;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240170;Ana Grace da Silva Carvalho;Curso Técnico em Enfermagem ;3;0;0;0;0;;38;F;1;Boa Vista;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240078;Ana Vitória Sousa Santana;Curso Técnico em Enfermagem ;3;0;0;0;2;;18;F;1;Campo Verde;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240074;Erivelton Nascimento Caires;Curso Técnico em Enfermagem ;3;0;0;0;1;;28;M;0;Centro;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240055;Milene Stéfane Ribeiro Sousa;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Patagônia;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240058;Camila Cateline Ribeiro Sousa Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;29;F;1;Patagônia;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240068;Maria Eduarda Soares da Silva Oliveira;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Zabelê;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240069;Raíssa Carvalho Campos;Curso Técnico em Enfermagem ;3;0;1;2;0;;21;F;1;Ibirapuera;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240087;Edileuza Ferreira Salgado Vieira;Curso Técnico em Enfermagem ;3;0;0;0;0;;46;F;1;Boa Vista;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240092;Hugo Carlos Araujo Santos;Curso Técnico em Enfermagem ;3;0;2;0;0;;19;F;1;Bateias;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240094;Larissa Soares Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;23;F;1;Guarani;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240065;Rôse Santos Caetano;Curso Técnico em Enfermagem ;3;0;2;0;0;;30;F;1;Bateias/ Cidade Modelo;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240066;Edlaine Mello de Sousa;Curso Técnico em Enfermagem ;3;0;0;2;1;;20;F;1;Centro;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240048;Laisa Pereira Sousa ;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;F;1;Centro;Anagé;0;ENF22-N;0;0;0;1;MT;Matriculado;9
+ENF240049;Tamires Silva dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;19;F;1;Patagônia;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240221;Pamella Oliveira Pereira;Curso Técnico em Enfermagem ;3;0;0;0;0;;28;F;1;Espirito Santo;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240218;Ana Paula Freire Santos;Curso Técnico em Enfermagem ;3;0;1;1;0;;17;F;1;Miro Cairo;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240215;Claudia Souza Pelosini;Curso Técnico em Enfermagem ;3;0;0;0;2;;49;F;1;Centro;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240209;Alzenir da Silva Ribeiro;Curso Técnico em Enfermagem ;3;0;1;2;0;;40;F;1;Itaipu;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240189;Maria Aparecida Libarina Santos Fontes;Curso Técnico em Enfermagem ;3;0;0;0;0;;48;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240190;Aline Santos Novais;Curso Técnico em Enfermagem ;3;0;0;2;0;;30;F;1;Centro;Barra da Estiva;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240176;Bruna Aparecida Pereira Caetano;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Alto Maron;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240184;Mateus Nascimento Aguiar;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;M;0;Centro;Belo Campo;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240201;Vanessa Alves Barbosa;Curso Técnico em Enfermagem ;3;0;0;0;0;;43;F;1;Bateias ;Vitória da Conquista;0;ENF22-N;PC;0;0;0;MT;Matriculado;9
+ENF240194;Rebeca de Souza Santos Matos;Curso Técnico em Enfermagem ;3;0;1;0;0;;34;F;1;Jurema;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240196;Jéssica Jesus da Silva;Curso Técnico em Enfermagem ;3;0;2;1;0;;27;F;1;Universidade;Vitória da Conquista;0;ENF22-N;0;0;0;0;MT;Matriculado;9
+ENF240233;Helen Santana de Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;1;;20;F;1;Miro Cairo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240296;Larissa Campos Conceição;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Felícia;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240301;Estefany Silva Sousa;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Centro;Ribeirão do Largo;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240302;Taise do Rosario de Sousa;Curso Técnico em Enfermagem ;1;0;0;0;0;;40;F;1;Espírito Santo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240286;Mariana Silva Ferreira ;Curso Técnico em Enfermagem ;1;0;0;1;0;;21;F;1;Zona Rural;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240310;Lorena Nascimento dos Santos;Curso Técnico em Enfermagem ;1;0;0;1;0;;19;F;1;Centro;Lagoa José Luís;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240311;Renata Soares Braga;Curso Técnico em Enfermagem ;1;0;0;2;1;;20;F;1;Zabelê (Vila Serrana 2);Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240305;Maria da Ajuda de Jesus;Curso Técnico em Enfermagem ;1;0;0;1;0;;37;F;1;Espírito Santo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240308;Roseane Santos Silva;Curso Técnico em Enfermagem ;1;0;0;1;0;;30;F;1;Patagônia;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240272;Beatriz dos Santos Gama;Curso Técnico em Enfermagem ;1;0;2;0;3;;20;F;1;Rural Pedra Branca;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240244;Sidélia Santos Nascimento;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Centro;Cândido Sales;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240262;Daniela Carvalho Dorea;Curso Técnico em Enfermagem ;1;0;0;0;0;;38;F;1;Zabelê;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240251;Adriana Bomfim de Oliveira;Curso Técnico em Enfermagem ;1;0;0;1;0;;42;F;1;Espírito Santo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250001;Clécia Santos Pereira;Curso Técnico em Enfermagem ;1;0;0;1;0;;30;F;1;Candeias;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240361;Ana Paula Lima Pales Braga ;Curso Técnico em Enfermagem ;1;0;0;1;1;;31;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240359;Tamizze Oliveira dos Anjos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;34;F;1;Santa Cecília;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF240337;Vilma Souza de Jesus;Curso Técnico em Enfermagem ;1;0;0;0;1;;36;F;1;Recanto das Aguas;Vitória da Conquista;0;ENF24-M;1;1;0;0;MT;Matriculado;9
+ENF240327;Alisson Vinicius Ferreira Pereira;Curso Técnico em Enfermagem ;1;0;0;2;0;;20;M;0;Felícia;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250048;William Ribeiro Freire;Curso Técnico em Enfermagem ;1;0;0;0;0;;41;M;0;Panorama;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250042;Jaqueline Sousa Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Alto Maron;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250043;Alessandra Araujo Ferreira Souza;Curso Técnico em Enfermagem ;1;0;0;1;0;;39;F;1;Centro;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250044;Nicoly Silva Santos de Araújo;Curso Técnico em Enfermagem ;1;0;0;0;1;;19;F;1;Boa Vista;Vitória da Conquista;0;ENF24-M;1;1;0;0;MT;Matriculado;9
+ENF250039;Rhayane Marinho Lopes;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Espírito Santo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250031;Enoc Martins dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;46;M;0;Zabelê;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250032;Gisele Morais Teles;Curso Técnico em Enfermagem ;1;0;0;1;0;;25;F;1;Senhorinha Cairo;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250027;Jennifer Alves Gonçalves;Curso Técnico em Enfermagem ;1;0;0;1;0;;21;F;1;Boa Vista;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250024;Bianca Rodrigues Rocha ;Curso Técnico em Enfermagem ;1;0;0;0;0;;23;F;1;Brasil;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250025;Sthéfane Santana Silva de Jesus;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Brasil;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250097;Ana Luiza Rodrigues Lacerda;Curso Técnico em Enfermagem ;1;0;0;1;0;;18;F;1;Centro;Cândido Sales;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250095;Raiane dos Santos Chaves;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Bateias;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250089;Ana Valéria Rodrigues Costa;Curso Técnico em Enfermagem ;1;0;1;0;0;;32;F;1;Centro;Itambé;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250069;Emily Coutinho Cézar;Curso Técnico em Enfermagem ;1;0;0;0;1;;18;F;1;Bateias;Vitória da Conquista;0;ENF24-M;1;1;0;0;MT;Matriculado;9
+ENF250066;Yasmin de Oliveira Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Patagônia;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250071;Daniele Silva Quariniri;Curso Técnico em Enfermagem ;1;0;1;0;0;;33;F;1;Ibirapuera;Vitória da Conquista;0;ENF24-M;0;0;0;0;MT;Matriculado;9
+ENF250082;Eunice Pereira César;Curso Técnico em Enfermagem ;1;0;0;0;1;;43;F;1;Cruzeiro;Vitória da Conquista;0;ENF24-M;1;1;0;0;MT;Matriculado;9
+ENF240008;Rosângela Silva Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;29;F;1;Patagônia;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240012;Edicleusa da Silva Nogueira;Curso Técnico em Enfermagem ;3;0;3;3;0;;35;F;1;Miro Cairo;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240020;Rebeca Santos Silva;Curso Técnico em Enfermagem ;3;0;1;0;5;;36;F;1;Zabelê;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230417;Jessica Alves Silva;Curso Técnico em Enfermagem ;3;0;0;0;1;;32;F;1;Jatobá;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240003;Rayssa Santos Lopes;Curso Técnico em Enfermagem ;3;0;0;0;1;;19;F;1;Patagônia;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230412;Lucas Rocha Gusmão;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;M;0;Felícia;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230410;Sabrina Carvalho de Jesus;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;F;1;Jurema;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230415;Maiara Souza Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;M;0;Centro;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230382;Joice Silva Salgado;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Centro;Belo Campo;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230383;Ana Carolina Santos Oliveira Brito;Curso Técnico em Enfermagem ;3;0;0;0;1;;29;F;1;Itapirema;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230377;Joyce Torres de Souza;Curso Técnico em Enfermagem ;3;0;0;0;0;;37;F;1;Patagônia;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230403;Mislane de Souza Pinheiro;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Zona Rural - Simão;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF230404;Cleide Novais dos Santos Magalhães;Curso Técnico em Enfermagem ;3;0;0;0;0;;37;F;1;Zabelê;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240034;Kaique de Oliveira Queiroz;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;M;0;Jurema;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240035;Juliano Brito das Neves;Curso Técnico em Enfermagem ;3;0;0;0;0;;23;M;0;Lagoa das Flores;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240043;Kely Cristina Gomes Damasceno;Curso Técnico em Enfermagem ;3;0;0;0;0;;31;F;1;Kadija;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240044;Adrieli Cristina Souza Borges;Curso Técnico em Enfermagem ;3;0;0;0;1;;24;F;1;Felícia;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF240039;Andressa Silva dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;31;F;1;Brasil;Vitória da Conquista;0;ENF20-N;0;0;0;0;MT;Matriculado;9
+ENF220290;Lívia Caroline de Jesus Santos;Curso Técnico em Enfermagem ;3;0;1;0;6;;21;F;1;Centro;Cândido Sales;0;ENF19-N;PC;0;0;0;MT;Matriculado;9
+ENF230287;Maria José da Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;56;F;1;Boa Vista;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230288;Edvaldo Portela da Silva;Curso Técnico em Enfermagem ;3;2;0;1;0;;53;M;0;Primavera;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230282;Izana Magna Oliveira dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Zabelê;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230277;Joane Alves Silva;Curso Técnico em Enfermagem ;3;0;0;0;1;;20;F;1;Espírito Santo;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230278;Andressa da Silva Pereira;Curso Técnico em Enfermagem ;3;0;0;0;2;;24;F;1;Recreio;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230273;Flávia dias Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;29;F;1;Patagônia;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230291;Bruna Araujo da Exaltação do Nascimento;Curso Técnico em Enfermagem ;3;2;0;0;0;;31;F;1;Jatobá;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230297;Bianca Ferreira Santos;Curso Técnico em Enfermagem ;3;1;0;0;0;;20;F;1;Ibirapuera;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230298;Rosangela Brito Viana;Curso Técnico em Enfermagem ;3;0;0;0;0;;49;F;1;Centro;Barra do Choça;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230295;Glaucia Oliveira Pereira;Curso Técnico em Enfermagem ;3;0;0;0;0;;47;F;1;Cruzeiro;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230300;Delaine Santos Sousa ;Curso Técnico em Enfermagem ;3;2;0;0;3;;26;F;1;Patagônia;Vitória da Conquista;0;ENF18-M;1;1;0;0;MT;Matriculado;9
+ENF230244;Ingred Lopes dos Santos;Curso Técnico em Enfermagem ;3;0;1;0;1;;19;F;1;Ibirapuera;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230239;Beatriz Alves Sena Mendes;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;F;1;Iguá;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230393;Maicon Oliveira Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;25;M;0;Jurema;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230384;Daniela Reis Santos;Curso Técnico em Enfermagem ;3;0;2;3;3;;22;F;1;Ibirapuera;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230389;Uanderson de Oliveira Queiroz;Curso Técnico em Enfermagem ;3;0;0;0;0;;32;M;0;Brasil;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF240013;Isabela Silva de Souza;Curso Técnico em Enfermagem ;3;0;1;0;0;;23;F;1;Boa Vista;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF240011;Paloma Oliveira Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;F;1;Centro;Ituaçu;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230305;Ana Paula Silva Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;24;F;1;Cabeceira do Jibóia;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230312;Lucimara Silva Sousa Teixeira;Curso Técnico em Enfermagem ;3;0;0;0;0;;38;F;1;Patagônia;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230320;Bianca Amaral Ferreira Pereira;Curso Técnico em Enfermagem ;3;1;0;0;0;;45;F;1;Jurema;Vitória da Conquista;0;ENF18-M;2;1;0;0;MT;Matriculado;9
+ENF230330;Eduarda Tiago Santos;Curso Técnico em Enfermagem ;3;0;0;0;1;;21;F;1;Espírito Santo;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230331;Gabriela Santos Mendes;Curso Técnico em Enfermagem ;3;0;0;0;0;;37;F;1;Boa Vista;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230323;Julia de Jesus Pereira Sampaio;Curso Técnico em Enfermagem ;3;0;0;0;0;;41;F;1;Santa Cruz;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230324;Dieles Nascimento de Jesus;Curso Técnico em Enfermagem ;3;1;1;0;0;;25;F;1;Ibirapuera;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230325;Renata Brito Araújo;Curso Técnico em Enfermagem ;3;0;1;2;4;;19;F;1;Zabelê;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230335;Estefane Nascimento Cortes;Curso Técnico em Enfermagem ;3;0;3;1;1;;25;F;1;Guarani;Vitória da Conquista;0;ENF19-N;1;1;0;0;MT;Matriculado;9
+ENF230367;Maria Eduarda Costa Oliveira;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Centro;Anagé;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230368;Raiane dos Santos Costa;Curso Técnico em Enfermagem ;3;0;0;1;0;;19;F;1;Centro;Anagé;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230363;Marleide dos Santos Fonseca;Curso Técnico em Enfermagem ;3;0;0;1;0;;29;F;1;Patagônia;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230357;Larissa Vitória Melo Lemos;Curso Técnico em Enfermagem ;3;0;0;0;0;;18;F;1;Patagônia;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230351;Janina de Jesus Campos;Curso Técnico em Enfermagem ;3;0;2;1;0;;33;F;1;Pradoso;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230353;Natália Barbosa Vieira;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Brasil;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230348;Antonio Marcos Silva Sena;Curso Técnico em Enfermagem ;3;0;0;0;0;;34;M;0;Zona Rural;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF230317;Quéren-Hapuque Silva Porto Lacerda;Curso Técnico em Enfermagem ;3;0;0;0;0;;26;F;1;Felícia;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230346;Uiliam do Nascimento Oliveira;Curso Técnico em Enfermagem ;3;0;0;3;2;;25;M;0;Zabelê;Vitória da Conquista;0;ENF19-N;1;1;0;0;MT;Matriculado;9
+ENF230341;Lusia Pereira do Prado Oliveira;Curso Técnico em Enfermagem ;3;0;0;0;0;;47;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;ENF19-N;0;0;0;0;MT;Matriculado;9
+ENF230342;Claudia Santos e Santos;Curso Técnico em Enfermagem ;3;2;0;0;0;;38;F;1;Jatobá;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF240228;Silvanete Bomfim Gomes Lima;Curso Técnico em Enfermagem ;3;2;0;0;0;;34;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF18-M;0;0;0;0;MT;Matriculado;9
+ENF220330;Ivaneide Oliveira Rodrigues;Curso Técnico em Enfermagem ;4;0;0;0;0;;33;F;1;Centro;Vitória da Conquista;0;ENF07-I        ;0;0;0;0;MT;Matriculado;9
+ENF220220;Flavia Rocha Matos;Curso Técnico em Enfermagem ;4;0;0;0;2;;34;F;1;Centro;Anagé;0;ENF07-I        ;2;1;0;0;MT;Matriculado;9
+ENF220152;Samara Oliveira Rocha;Curso Técnico em Enfermagem ;4;0;0;0;2;;23;F;1;Zabelê;Vitória da Conquista;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF220142;Ijoelma Santos Queiroz Alves;Curso Técnico em Enfermagem ;4;0;4;0;0;;37;F;1;Centro;Ribeirão do Largo;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF220008;Nicassia Cristina Machado ;Curso Técnico em Enfermagem ;4;0;1;0;0;;53;F;1;Centro;Itapetinga;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF220017;Luciana Silva Sena;Curso Técnico em Enfermagem ;4;0;0;0;2;;25;F;1;Campinhos;Vitória da Conquista;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF220021;Lenaci Mercês de Oliveira Freire ;Curso Técnico em Enfermagem ;4;0;0;0;0;;39;F;1;Espírito Santo;Vitória da Conquista;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF220022;Darlene Aparecida Vieira Costa;Curso Técnico em Enfermagem ;4;0;0;0;0;;44;F;1;Espírito Santo;Vitória da Conquista;0;ENF07-I        ;PC;0;0;0;MT;Matriculado;9
+ENF230159;Juliana dos Santos Esteves;Curso Técnico em Enfermagem ;4;0;0;0;0;;35;F;1;Jatobá;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230147;Maria Alice dos Santos Oliveira;Curso Técnico em Enfermagem ;4;0;0;0;0;;22;F;1;Vila América;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230151;Verônica Lemos Lima;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Zabelê;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230124;Katiane Chagas Pereira;Curso Técnico em Enfermagem ;4;0;3;0;0;;45;F;1;Zabelê;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230114;Adriano Pereira Silva;Curso Técnico em Enfermagem ;4;0;4;1;0;;47;M;0;Jatobá;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230270;Laísa Sousa Silva;Curso Técnico em Enfermagem ;4;0;4;3;0;;22;F;1;Patagônia;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230272;Mariana de Oliveira Prates;Curso Técnico em Enfermagem ;4;0;0;0;0;;23;F;1;Felícia;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230247;Rita Santos da Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Morada Real;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230251;Katia Regina Santos Muniz;Curso Técnico em Enfermagem ;4;0;0;5;0;;49;F;1;Patagônia;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230266;Lázaro Vieira Silva;Curso Técnico em Enfermagem ;4;0;0;2;4;;29;M;0;Iguá;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230267;Elaine de Jesus Oliveira Barbosa;Curso Técnico em Enfermagem ;4;0;0;0;0;;21;F;1;Zona Rural;Iguá;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230268;Samara Araujo Andrade;Curso Técnico em Enfermagem ;4;0;0;1;1;;26;F;1;Bateias;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230261;Marinalva Rodrigues Neves;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Espírito Santo;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230210;Debora Lemos Marinho;Curso Técnico em Enfermagem ;4;0;0;0;1;;26;F;1;conveima;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230208;Bárbara Maria Silva Santos;Curso Técnico em Enfermagem ;4;0;0;0;1;;27;F;1;Ibirapuera;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230216;Rômulo Tiesa Santos de Jesus;Curso Técnico em Enfermagem ;4;0;0;0;0;;29;M;0;Cruzeiro;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230213;Celena Alves Ferreira Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;27;M;0;Cruzeiro;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230203;Yasmin Moreira Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;20;F;1;Boa Vista;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230204;Sarah Graia de Matos;Curso Técnico em Enfermagem ;4;0;0;0;0;;31;F;1;Ibirapuera;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230190;Zenaide Cruz Jesus;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Brasil;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230194;Edimaria de Jesus Santos Aguiar;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Patagônia;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230196;Ana Luiza Lamego Araújo;Curso Técnico em Enfermagem ;4;0;0;0;1;;32;F;1;Boa Vista;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230197;Ana Maria Lamego da Paixão;Curso Técnico em Enfermagem ;4;0;0;0;1;;60;F;1;Boa Vista;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230183;Mirian Almeida de Oliveira Rodrigues;Curso Técnico em Enfermagem ;4;0;0;0;0;;49;F;1;Jatobá;Vitória da Conquista;0;ENF17-N;0;0;0;1;MT;Matriculado;9
+ENF230187;Jéssica Moreira Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;20;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF17-N;0;0;0;1;MT;Matriculado;9
+ENF230165;Maria Aparecida de Almeida Carvalho dos Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;33;F;1;Centro;Cândido Sales;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230171;Luciana Silva Amorim;Curso Técnico em Enfermagem ;4;0;0;0;0;;37;F;1;Campinhos;Vitória da Conquista;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF230174;Francielly de Almeida Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Centro;Cândido Sales;0;ENF17-N;0;0;0;0;MT;Matriculado;9
+ENF220186;Juliana Cruz Pacheco;Curso Técnico em Enfermagem ;4;0;3;0;4;;31;F;1;Guarani;Vitória da Conquista;0;ENF17-N;PC;0;0;0;MT;Matriculado;9
+ENF220332;Livia de Jesus Rocha Oliveira;Curso Técnico em Enfermagem ;4;0;0;0;0;;29;F;1;Centro;Cândido Sales;0;ENF17-N;PC;0;0;0;MT;Matriculado;9
+ENF240247;Millena de Oliveira José Mateus;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Zabelê;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240239;Maria Alves Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;44;F;1;Patagônia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240235;Manuela Urcino de Melo Rocha;Curso Técnico em Enfermagem ;1;0;0;0;0;;26;F;1;Bateias;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240236;Camila Santos Urcino;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Bateias;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240232;Sabrina Santos Mendes;Curso Técnico em Enfermagem ;1;0;0;0;0;;26;F;1;Urbis VI;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240292;Ana Beatriz Cordeiro Gomes Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Brasil;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240293;Igor Rodrigues de Andrade;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;M;0;Ibirapuera;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240313;Tamires Andrade Marinho;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Zabelê (Senhorinha Cairo);Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240314;Lanna Sara de Souza Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240315;Raissa de Brito da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Espírito Santo;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240309;Claudiane Santos Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;F;1;Patagônia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240318;Ailza Avelar Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;44;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240306;Maria Nogueira de Oliveira ;Curso Técnico em Enfermagem ;1;0;0;0;0;;52;F;1;Felícia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240307;Jane Soares Dias;Curso Técnico em Enfermagem ;1;0;0;0;0;;32;F;1;Jardim Valéria;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240299;Alessandra de Paula Pinheiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;54;F;1;Jurema;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240300;Joaquim Adealdo Pinheiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;62;M;0;Jurema;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240258;Pedro Isaac Almeida dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;M;0;Candeias;Vitória da Conquista;0;ENF23-N;1;1;0;0;MT;Matriculado;9
+ENF240259;Tamiris Oliveira Souza;Curso Técnico em Enfermagem ;1;0;1;1;0;;26;F;1;Jurema;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240253;Ana Luíza Silva Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Espírito Santo;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240255;Pollyana Oliveira Andrade;Curso Técnico em Enfermagem ;1;0;0;0;0;;36;F;1;Morada dos Pássaros;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240249;Igor Lopes Santos;Curso Técnico em Enfermagem ;1;0;0;1;0;;28;M;0;Brasil;Vitória da Conquista;0;ENF23-N;1;1;0;0;MT;Matriculado;9
+ENF240279;Débora Santos Oliveira;Curso Técnico em Enfermagem ;1;0;0;0;1;;31;F;1;Cruzeiro;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240280;Roseane de Sousa Tiago de Matos;Curso Técnico em Enfermagem ;1;0;0;0;2;;34;F;1;Zabelê;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240277;Maria Brito de Queiroz;Curso Técnico em Enfermagem ;1;0;0;0;0;;40;F;1;Primavera;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240266;Ana Clara Brito da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Felícia;Vitória da Conquista;0;ENF23-N;0;0;0;1;MT;Matriculado;9
+ENF250051;Jussara Silva Guimarães;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Urbis IV;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250035;Jenifer Santos Lopes ;Curso Técnico em Enfermagem ;1;0;0;1;0;;22;F;1;Alto Maron;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250060;Martin Pedro Ferraz Almansa;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;M;0;Centro;Vitória da Conquista;0;ENF25-T;0;0;0;1;MT;Matriculado;9
+ENF250062;Flávia Danielle Santos Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Centro;Ibiajara;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250076;Grazielly Sousa Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Zabelê;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250073;Mariana Freitas Lopes;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;São Pedro;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250023;Jade Cardozo de Almeida;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Candeias;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250054;Taiara Almeida dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;51;F;1;Boa Vista;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250081;Raquel Silva dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Comveima;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250093;Monnik de Andrade Bahia Jardim;Curso Técnico em Enfermagem ;1;0;0;0;0;;37;F;1;Bateias;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240322;Roberta Silva Brito;Curso Técnico em Enfermagem ;1;0;0;0;0;;35;F;1;Jatobá;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240340;Zenaide de Jesus Souza Filha;Curso Técnico em Enfermagem ;1;0;0;0;0;;44;F;1;Jurema;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240332;Hiven de Oliveira Rocha;Curso Técnico em Enfermagem ;1;0;0;0;1;;31;F;1;Vila Clementino;São Paulo;0;ENF23-N;1;1;0;0;MT;Matriculado;9
+ENF240333;Valdirene dos Santos Souza;Curso Técnico em Enfermagem ;1;0;0;1;0;;32;F;1;São Pedro;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240334;Tatiele de Jesus Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;30;F;1;Bateias;Vitória da Conquista;0;ENF25-T;1;1;0;0;MT;Matriculado;9
+ENF240335;Marizete Rocha Martins;Curso Técnico em Enfermagem ;1;0;0;0;0;;30;F;1;Centro;Rio do Antônio;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240336;Alana Sales dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;22;F;1;Ibirapuera;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240345;Júlia Matos Lopes;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Jatobá;Vitória da Conquista;0;ENF23-N;1;1;0;0;MT;Matriculado;9
+ENF240346;Aline da Silva Souza;Curso Técnico em Enfermagem ;1;0;0;0;0;;35;F;1;Primavera;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240347;Jamme Costa Barros;Curso Técnico em Enfermagem ;1;0;0;0;0;;25;M;0;Espírito Santo;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240348;Tainá Gonçalves Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Boa Vista;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240357;Maria Luiza Gomes da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;19;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240352;Luany Silva dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;17;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240360;Lizete Rodrigues dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;1;;47;F;1;Centro;Livramento de Nossa Senhora;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240362;Wigleinardo Pereira Ribeiro;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;M;0;Patagônia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240364;Aldevanda Moreira Figueredo;Curso Técnico em Enfermagem ;1;0;0;1;0;;44;F;1;Zabelê;Vitória da Conquista;0;ENF23-N;2;1;0;0;MT;Matriculado;9
+ENF240365;Greice Kelle de Jesus Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;42;F;1;Alto Maron;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240366;Heloísa de Jesus Santos Chaves ;Curso Técnico em Enfermagem ;1;0;0;1;1;;18;F;1;Urbis VI;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF240367;Nicolly Azevêdo Arruda;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Bateias;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250002;Cristiele Amaral de Freitas;Curso Técnico em Enfermagem ;1;0;0;0;0;;30;F;1;Patagônia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250003;Claudinéia Jesus de Almeida;Curso Técnico em Enfermagem ;1;0;0;1;0;;24;F;1;Urbis 5;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250004;Magna Chaves Lima Santos Neves;Curso Técnico em Enfermagem ;1;0;0;0;0;;38;F;1;Boa Vista;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250007;Raquel Pereira Costa;Curso Técnico em Enfermagem ;1;0;0;0;0;;34;F;1;Lagoa das Flores;Vitória da Conquista;0;ENF23-N;1;1;0;0;MT;Matriculado;9
+ENF250008;Elian Rocha Moreira;Curso Técnico em Enfermagem ;1;0;0;0;0;;25;M;0;Vila Elisa;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250015;Laviny Silva Morais;Curso Técnico em Enfermagem ;1;0;0;1;0;;18;F;1;Zabelê;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250010;Andressa Castro da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;25;F;1;Boa Vista;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF240370;Elisa Lara Lima Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Espirito Santo;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250020;Ian Lucas Teixeira Carvalho;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;M;0;Centro;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250021;Roziane Santos Soares;Curso Técnico em Enfermagem ;1;0;0;0;0;;40;F;1;Rural;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250012;Natalia Silva Araújo;Curso Técnico em Enfermagem ;1;0;0;2;0;;21;F;1;Patagônia;Vitória da Conquista;0;ENF23-N;0;0;0;0;MT;Matriculado;9
+ENF250115;Ana Júlia Ribeiro Alves;Curso Técnico em Enfermagem ;1;0;0;0;0;;18;F;1;Espírito Santo;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250099;Edna Lima dos Santos;Curso Técnico em Enfermagem ;1;0;0;0;0;;35;F;1;Centro;Anagé;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250104;Sara Santos Ferreira ;Curso Técnico em Enfermagem ;1;0;0;0;0;;24;F;1;Cidade Modelo;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250113;Valéria Souza da Silva;Curso Técnico em Enfermagem ;1;0;0;0;0;;20;F;1;Espírito Santo;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250128;Bruna da Silva Sousa Aguiar;Curso Técnico em Enfermagem ;1;0;0;0;0;;32;F;1;Ibirapuera;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250122;Gabriela Soares Duarte Santos;Curso Técnico em Enfermagem ;1;0;0;0;1;;22;F;1;Lagoa José Luís;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF250131;David Roger de Souza Matias;Curso Técnico em Enfermagem ;1;0;0;0;0;;28;M;0;Cruzeiro;Vitória da Conquista;0;ENF25-T;0;0;0;0;MT;Matriculado;9
+ENF210314;Sabrina de Oliveira Brito Lopes;Curso Técnico em Enfermagem ;3;0;1;0;7;;22;F;1;Distrito Industrial;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF210208;Adriana Nunes Silva Santos ;Curso Técnico em Enfermagem ;3;0;1;0;0;;23;F;1;Ayrton Senna;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210330;Mariane Pereira Alves;Curso Técnico em Enfermagem ;3;1;1;1;4;;23;F;1;Distrito Industrial;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF200160;Jaqueline Carvalho Oliveira ;Curso Técnico em Enfermagem ;3;0;1;0;3;;29;F;1;Ibirapuera;Vitória da Conquista;0;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200156;Rebecca Bianck Ribeiro Magalhães;Curso Técnico em Enfermagem ;3;0;6;0;2;;22;F;1;Kadija;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200128;Danilo Santos de Macedo;Curso Técnico em Enfermagem ;3;0;1;0;1;;33;M;0;Lot Pedro Santinho ;Barra do Choça;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200133;Janete Neres Brito ;Curso Técnico em Enfermagem ;3;0;1;0;0;;42;F;1;Centro;Barra do Choça;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200109;Amanda Santos Silva;Curso Técnico em Enfermagem ;3;0;0;0;3;;23;F;1;Zabelê;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200087;Tamires Santana dos Santos;Curso Técnico em Enfermagem ;3;0;0;1;0;;30;F;1;Jurema;Vitória da Conquista;0;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200106;Ana Paula Novaes da Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;31;F;1;Jatobá;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF220401;Tainá Batista Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;20;F;1;Alto Maron;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220375;Carlos de Jesus Almeida;Curso Técnico em Enfermagem ;3;0;0;0;0;;49;M;0;Centro;Cândido Sales;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220372;Júlia Soares Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;F;1;Centro;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220315;Renata dos Santos Batista;Curso Técnico em Enfermagem ;3;0;0;0;0;;36;F;1;Espírito Santo;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220289;Estela Freitas de Farias Trindade;Curso Técnico em Enfermagem ;3;0;0;0;0;;21;F;1;Jurema;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220307;Rafaela Amorim dos Santos ;Curso Técnico em Enfermagem ;3;0;0;0;8;;26;F;1;Centro;Caraíbas;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220340;Kailline Vitoria Alves Andrade;Curso Técnico em Enfermagem ;3;0;1;0;0;;21;F;1;Zabelê Senhorinha Cairo;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220365;Elisangela Ramos dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;1;;41;F;1;Felícia;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220352;Raquel Dutra Soares;Curso Técnico em Enfermagem ;3;0;2;0;0;;33;F;1;Centro;Belo Campo;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220286;Alan Dias Souza;Curso Técnico em Enfermagem ;3;0;1;0;2;;24;M;0;Miro Cairo;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220254;Rayssa Santos Medeiros ;Curso Técnico em Enfermagem ;3;0;1;0;0;;21;F;1;Iracema;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF200067;Eliana Silva Amaral;Curso Técnico em Enfermagem ;3;0;0;0;0;;45;F;1;Zabelê-Vila serrana ;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200043;Ariane Gomes Donato;Curso Técnico em Enfermagem ;3;0;0;0;0;;24;F;1;Centro;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF200007;Deijiane Santos de Souza;Curso Técnico em Enfermagem ;3;0;1;0;0;;39;F;1;Zona Rural;Vitória da Conquista;1;ENF01-N;PC;0;0;0;MT;Matriculado;9
+ENF220271;Jaqueline Silva de Albino;Curso Técnico em Enfermagem ;3;0;1;0;1;;27;F;1;Vila Bahia;Mata Verde;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220265;Helena Caroline Santana Rezende Amorim;Curso Técnico em Enfermagem ;3;0;0;0;0;;31;F;1;Felícia;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220279;Sirleide Almeida Pereira Neres;Curso Técnico em Enfermagem ;3;0;0;0;0;;37;F;1;Felícia;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220267;Ingrid Rocha Trajano da Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;23;F;1;Centro;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220223;Ana Carolina dos Santos Marques;Curso Técnico em Enfermagem ;3;0;0;0;0;;28;F;1;Guarani;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220238;Marli Barbosa Almeida;Curso Técnico em Enfermagem ;3;0;0;0;0;;38;F;1;Pradoso;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220235;Dilcelia de Amorim Coêlho Saraiva;Curso Técnico em Enfermagem ;3;0;0;0;0;;47;F;1;Recreio;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220131;Samy Lisboa Moreira;Curso Técnico em Enfermagem ;3;0;0;0;0;;18;M;0;Boa Vista;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220298;Maria Flavia Pedroso dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;25;F;1;Cruzeiro;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220319;Uanderson Santos Cerqueira;Curso Técnico em Enfermagem ;3;0;0;0;1;;25;M;0;Centro-Zona Rural;Anagé;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220380;Taiana dos Santos Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;38;F;1;Bateias;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF230105;Rosana Alvez Queiroz Nery;Curso Técnico em Enfermagem ;3;0;1;0;0;;42;F;1;Guarani;Vitória da Conquista;0;ENF13-N;0;0;0;0;MT;Matriculado;9
+ENF210026;Aldenilsia Ribeiro Silva;Curso Técnico em Enfermagem ;3;0;3;0;2;;37;F;1;Cruzeiro;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF210151;Emerson Rodrigues Moreira ;Curso Técnico em Enfermagem ;4;0;2;0;5;;30;M;0;Centro;Condeúba;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF220052;Emilene Lemos Feitosa dos Santos;Curso Técnico em Enfermagem ;3;0;1;4;3;;41;F;1;Patagônia;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220042;Taiana Nascimento de Oliveira;Curso Técnico em Enfermagem ;3;0;1;0;0;;27;F;1;Centro;Belo Campo;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220026;Maria Eduarda Moitinho Lima;Curso Técnico em Enfermagem ;3;0;1;0;2;;20;F;1;Felícia;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220032;Jennifer Viana Paiva Oliveira;Curso Técnico em Enfermagem ;3;0;0;0;0;;27;F;1;Centro;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220101;Rainara Ribeiro Rocha;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;F;1;Zona Rural;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220096;Ernestina Neta da Silva Santos;Curso Técnico em Enfermagem ;3;0;1;0;0;;46;F;1;Alto Maron;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220083;Bruna Sousa Soares;Curso Técnico em Enfermagem ;3;0;0;0;0;;22;F;1;Zabelê;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220079;Ana Paula Sousa Moreira;Curso Técnico em Enfermagem ;3;0;1;0;0;;46;F;1;Jatobá-Comveima II;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220073;Marcia de Oliveira Silva;Curso Técnico em Enfermagem ;3;0;0;0;4;;34;F;1;Espírito Santo;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220070;Juliana Santos Rocha;Curso Técnico em Enfermagem ;3;0;0;0;0;;35;F;1;Alto Maron;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF210014;Andreia Santos Pereira;Curso Técnico em Enfermagem ;4;0;0;0;0;;34;F;1;Patagônia;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF200204;Pedro Lucas Veiga Neri;Curso Técnico em Enfermagem ;4;0;0;0;1;;23;M;0;Jurema;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF210099;Carliane Lima de Oliveira;Curso Técnico em Enfermagem ;4;0;0;2;3;;22;F;1;Cruzeiro;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220015;Ariane Silva da Cruz ;Curso Técnico em Enfermagem ;4;0;2;0;0;;28;F;1;Campinhos;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF200048;Catiane Apomucena Ferreira;Curso Técnico em Enfermagem ;4;0;1;0;0;;37;F;1;Cruzeiro;Vitória da Conquista;0;ENF02-M;PC;0;0;0;MT;Matriculado;9
+ENF220041;Maria Luiza Pereira Brunes Santos;Curso Técnico em Enfermagem ;4;0;1;0;0;;21;F;1;Cruzeiro;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220044;Juliete Ribeiro Brito;Curso Técnico em Enfermagem ;3;0;0;0;0;;35;F;1;Espírito Santo;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220046;Emilly Rodrigues Silva Neves;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Patagônia;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220078;Ivan Viana de Jesus ;Curso Técnico em Enfermagem ;4;0;0;0;1;;57;M;0;Cruzeiro;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF210125;Jaqueline Santos Oliveira;Curso Técnico em Enfermagem ;4;0;0;0;0;;27;F;1;Cruzeiro;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF210109;Thalita Brandão Tigre;Curso Técnico em Enfermagem ;4;0;0;0;0;;35;F;1;Jurema;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF210123;Beatriz Souza Dutra;Curso Técnico em Enfermagem ;4;0;0;0;1;;27;F;1;Zabelê;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF200097;Mara Jackeline Santana Santos;Curso Técnico em Enfermagem ;4;0;1;0;0;;39;F;1;Campinhos;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF200215;Sara de Almeida Oliveira;Curso Técnico em Enfermagem ;4;0;1;0;0;;26;F;1;Comveima;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220292;Fabricia Chagas Pereira de Oliveira;Curso Técnico em Enfermagem ;4;0;0;0;0;;41;F;1;Ibirapuera;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220231;Maria Moreira Santos Almeida;Curso Técnico em Enfermagem ;4;0;0;0;0;;36;F;1;Pradoso Zona Rural;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220242;Jaqueline de Jesus Silva;Curso Técnico em Enfermagem ;4;0;3;0;0;;36;F;1;Primavera;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220229;Mikaele Santos Nogueira;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Ayrton Senna-;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220217;Stefany Santos Gonçalves;Curso Técnico em Enfermagem ;4;0;0;0;0;;23;F;1;Espírito Santo-Morada Real;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220150;Ithamara Cristina Gama Novais da Silva;Curso Técnico em Enfermagem ;4;0;0;0;1;;28;F;1;Brasil;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220147;Naiara Macedo Leal ;Curso Técnico em Enfermagem ;4;0;1;0;0;;30;F;1;Primavera;Vitória da Conquista;0;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF220162;Luana de Oliveira Souza;Curso Técnico em Enfermagem ;4;0;2;0;1;;27;F;1;Jurema-São Vicente;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220201;Sheron Stefany dos Santos;Curso Técnico em Enfermagem ;4;0;0;0;6;;21;F;1;Patagônia;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF240148;Davy Franco Negreti Dias;Curso Técnico em Enfermagem ;4;0;0;0;0;;27;M;0;Alto Maron;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220209;Michele Batista de Araújo;Curso Técnico em Enfermagem ;4;0;1;0;0;;23;F;1;Cruzeiro;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220198;Amanda Silva Lobardo;Curso Técnico em Enfermagem ;4;0;0;0;0;;25;F;1;Zona Rural;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220167;Ingrid Almeida Chagas;Curso Técnico em Enfermagem ;4;0;0;1;4;;21;F;1;Jatobá;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220164;Ana Carolina Alves da Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;28;F;1;Candeias;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220144;Ane Caroline Malveira Pinto;Curso Técnico em Enfermagem ;4;0;0;0;0;;34;F;1;Felícia-Jardim Guanabara;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220233;Roberta Alves Santos;Curso Técnico em Enfermagem ;3;0;0;0;0;;32;F;1;Felícia-Morada dos Passaros;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF230091;Jaquelina Oliveira Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;39;F;1;Cruzeiro;Vitória da Conquista;0;ENF05-N;0;0;0;0;MT;Matriculado;9
+ENF200201;Grazielle Gomes dos Santos Rocha ;Curso Técnico em Enfermagem ;4;0;0;0;0;;31;F;1;Felícia;Vitória da Conquista;1;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF200155;Rebeca Souza Santos ;Curso Técnico em Enfermagem ;4;0;2;0;0;;22;F;1;Brasil;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF210115;Jaqueline Brenda Chagas Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;25;F;1;Brasil;Vitória da Conquista;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210083;Fabrícia Batista Santos;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Zabelê;Vitória da Conquista;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF210241;Leticia Fontes Tigre Amaral;Curso Técnico em Enfermagem ;4;0;1;0;7;;28;F;1;Felícia-Morada dos Passaros;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF220028;Tamires Prates Mascena ;Curso Técnico em Enfermagem ;4;0;2;1;0;;22;F;1;Patagônia;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF210250;Eric Rodrigues Almeida ;Curso Técnico em Enfermagem ;4;0;1;0;0;;36;M;0;Distrito Industrial;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF220080;Alexia Viana Silva ;Curso Técnico em Enfermagem ;4;0;1;0;5;;25;F;1;Nossa Senhora Aparecida;Vitória da Conquista;1;ENF09-N;PC;0;0;0;MT;Matriculado;9
+ENF210091;Rebeca Brito Lima;Curso Técnico em Enfermagem ;4;0;0;0;5;;22;F;1;Centro;Vitória da Conquista;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF220368;Gabrielly de Jesus da Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;18;F;1;Guarani;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF210134;Taylane Quadros Dias;Curso Técnico em Enfermagem ;4;0;1;0;1;;21;F;1;Cruzeiro;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF210147;Ianca Mendonça Soares;Curso Técnico em Enfermagem ;4;0;2;0;1;;29;F;1;Felícia;Vitória da Conquista;0;ENF04-M;PC;0;0;0;MT;Matriculado;9
+ENF220071;Thalita Renata Souto Brito;Curso Técnico em Enfermagem ;3;0;0;0;0;;26;F;1;Urbis  II ;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220049;Vanessa Leal dos Reis Dias;Curso Técnico em Enfermagem ;4;0;1;0;0;;40;F;1;Primavera;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220275;Tatiane Costa Silva;Curso Técnico em Enfermagem ;3;0;0;0;0;;44;F;1;Patagônia;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220293;Luara Cristina Ferreira Silva;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;F;1;Centro;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF210249;Caroline Alves Matias Santos;Curso Técnico em Enfermagem ;4;0;1;0;0;;28;F;1;Alto Maron;Vitória da Conquista;0;ENF05-N;PC;0;0;0;MT;Matriculado;9
+ENF220301;Maria Eduarda Oliveira dos Santos;Curso Técnico em Enfermagem ;3;0;0;0;1;;20;F;1;Boa Vista;Vitória da Conquista;0;ENF13-N;PC;0;0;0;MT;Matriculado;9
+ENF220316;Pedro Henrique Muniz Costa;Curso Técnico em Enfermagem ;4;0;0;0;1;;19;M;0;Guarani;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220245;Marilacia Aparecida Vieira dos Santos;Curso Técnico em Enfermagem ;4;0;3;0;1;;39;F;1;Centro;Condeúba;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+ENF220165;Levi Costa Rocha;Curso Técnico em Enfermagem ;4;0;0;0;0;;24;M;0;Bateias;Vitória da Conquista;0;ENF11-N;PC;0;0;0;MT;Matriculado;9
+FMC230028;Tamires Novaes Santos;Curso Técnico em Farmácia;2;0;0;0;0;;26;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;FMC06-M;PC;0;1;0;MT;Matriculado;9
+FMC230024;Beatriz Prado Vieira;Curso Técnico em Farmácia;2;0;0;0;0;;21;F;1;Centro;Anagé;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240008;Carla de Araújo Ribeiro;Curso Técnico em Farmácia;2;0;2;0;0;;17;F;1;Alvorada/ Municipio de Mocó;Águas Vermelhas;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240015;Vitor Rocha Prado;Curso Técnico em Farmácia;2;0;0;0;0;;22;M;0;Alto Maron;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240019;Larissa Moreira de Oliveira;Curso Técnico em Farmácia;2;0;0;1;2;;21;F;1;Campinhos;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240023;Alessandra da Silva Santos;Curso Técnico em Farmácia;2;0;1;0;0;;41;F;1;Primavera;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240028;Jamile Gonçalves Queiroz;Curso Técnico em Farmácia;2;0;1;3;0;;16;M;0;Centro;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240033;Ilana Figueiredo Souza Santos;Curso Técnico em Farmácia;2;0;0;3;1;;20;F;1;Centro;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240035;Karolline Novaes Oliveira;Curso Técnico em Farmácia;2;0;1;1;0;;21;F;1;Patagônia;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC250035;kelly Adony de Sousa Andrade;Curso Técnico em Farmácia;2;0;0;1;0;;26;F;1;Centro;Vila do Café;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240078;Ana Vitória Souza Oliveira Soares;Curso Técnico em Farmácia;2;0;1;0;0;;24;F;1;Ibirapuera;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240079;Maísa Moreira Silva;Curso Técnico em Farmácia;2;0;0;0;0;;19;F;1;Zabelê;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240080;Marcela Oliveira Andrade;Curso Técnico em Farmácia;2;0;1;2;0;;23;F;1;Bateias;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240050;Eduardo Menezes Rangel Ivo;Curso Técnico em Farmácia;2;0;0;0;0;;23;M;0;Boa Vista;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240054;Julio Ceza Damascena Oliveira;Curso Técnico em Farmácia;2;0;0;0;0;;21;M;0;Centro;Anagé;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240060;Adriele Lima Alves;Curso Técnico em Farmácia;2;0;1;1;0;;19;F;1;Centro Dantilandia;Vitória da Conquista;0;FMC06-M;0;0;0;0;MT;Matriculado;9
+FMC240064;Thainara Daltro de Sousa;Curso Técnico em Farmácia;2;0;0;0;3;;19;F;1;Senhorinha Cairo;Vitória da Conquista;0;FMC06-M;PC;0;1;0;MT;Matriculado;9
+FMC240065;Jenifer Sousa dos Santos;Curso Técnico em Farmácia;2;0;0;0;1;;19;F;1;Patagônia;Vitória da Conquista;0;FMC06-M;PC;0;1;0;MT;Matriculado;9
+FMC240066;Isaac Sousa Costa;Curso Técnico em Farmácia;2;0;1;0;0;;19;M;0;Patagônia;Vitória da Conquista;0;FMC06-M;PC;0;1;0;MT;Matriculado;9
+FMC230069;Edvania Santos Sampaio;Curso Técnico em Farmácia;3;0;0;1;0;;25;F;1;Renato Magalhães;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240002;Elzânia Vieira Mendes;Curso Técnico em Farmácia;3;0;0;0;0;;41;F;1;Patagônia;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240003;Rebeca Silva de Oliveira;Curso Técnico em Farmácia;3;0;0;3;4;;20;F;1;Boa Vista;Vitória da Conquista;0;FMC07-N;1;1;0;0;MT;Matriculado;9
+FMC230064;Maura de Oliveira Pereira;Curso Técnico em Farmácia;3;0;1;0;0;;46;F;1;Lagoa das Flores;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC230060;Rosangela David Silva;Curso Técnico em Farmácia;3;0;0;0;0;;44;F;1;Guarani;Vitória da Conquista;0;FMC07-N;1;1;0;0;MT;Matriculado;9
+FMC240016;Geiziquel da Silva Santos;Curso Técnico em Farmácia;3;0;0;2;0;;21;F;1;Boa Vista;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240007;Elane Silva Viana;Curso Técnico em Farmácia;3;0;0;0;1;;29;F;1;Brasil;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240012;Michele Oliveira de Jesus;Curso Técnico em Farmácia;3;0;0;0;0;;23;F;1;Miro Cairo;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240025;Enio Guimarães Silva;Curso Técnico em Farmácia;3;0;2;0;1;;27;M;0;Felícia;Vitória da Conquista;0;FMC07-N;2;1;0;0;MT;Matriculado;9
+FMC240026;Zilda Silva Oliveira;Curso Técnico em Farmácia;3;0;0;2;0;;29;F;1;Boa Vista;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240031;Tainara Cardoso Gonçalves;Curso Técnico em Farmácia;3;0;0;3;3;;27;F;1;Jurema;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240038;Isabele Leite Silva;Curso Técnico em Farmácia;3;0;0;2;3;;18;F;1;Alto Maron;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240039;Micael Mendes Santos;Curso Técnico em Farmácia;3;0;0;4;3;;17;M;0;Simão;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240042;Thailane Novais de Sousa;Curso Técnico em Farmácia;3;0;0;2;0;;19;F;1;Zabelê;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240044;Heloiza Alves Barbosa Rocha;Curso Técnico em Farmácia;3;0;0;1;3;;22;F;1;Brasil;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240048;Karise Ramos Ferraz;Curso Técnico em Farmácia;3;0;0;0;0;;18;F;1;Centro;Tremedal;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240074;Anny Gabrielle Santos Teixeira;Curso Técnico em Farmácia;3;0;0;0;0;;23;F;1;Brasil;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240053;Jocélia Maria da Silva Viana ;Curso Técnico em Farmácia;3;0;0;0;1;;36;F;1;Vila São José;Presidente Jânio Quadros;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240057;Magna França da Silva;Curso Técnico em Farmácia;3;0;0;0;0;;34;F;1;Centro;São João da Vitória;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC250030;Analu Amorim Costa;Curso Técnico em Farmácia;3;0;0;0;0;;18;F;1;Primavera;Vitória da Conquista;0;FMC07-N;0;0;0;0;MT;Matriculado;9
+FMC240067;Gabrielle Teixeira Batista;Curso Técnico em Farmácia;3;0;0;0;2;;23;F;1;Candeias;Vitória da Conquista;0;FMC06-M;PC;0;1;0;MT;Matriculado;9
+FMC200032;Ana Lídia Dutra Mota;Curso Técnico em Farmácia;4;0;1;0;3;;24;F;1;Primavera;Vitória da Conquista;1;FMC05-N;PC;0;0;0;MT;Matriculado;9
+FMC220037;Yan Oliveira dos Anjos;Curso Técnico em Farmácia;4;0;0;0;0;;21;M;0;Brasil;Vitória da Conquista;0;FMC05-N;PC;0;0;0;MT;Matriculado;9
+FMC230001;Marlla Bianca de Souza Oliveira;Curso Técnico em Farmácia;4;0;0;1;0;;29;F;1;Centro;Planalto;0;FMC05-N;PC;0;0;0;MT;Matriculado;9
+FMC220035;Micaele Sales Souza;Curso Técnico em Farmácia;4;0;0;0;8;;21;M;0;Zabelê;Vitória da Conquista;0;FMC05-N;PC;0;0;0;MT;Matriculado;9
+FMC210001;Cleidiane Araujo dos Santos;Curso Técnico em Farmácia;4;0;1;0;0;;35;F;1;Felícia;Vitória da Conquista;1;FMC05-N;PC;0;0;0;MT;Matriculado;9
+FMC230022;Geovana Barbosa de Oliveira;Curso Técnico em Farmácia;4;0;1;2;0;;22;F;1;Boa Vista;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230023;Lucimara Santos Santana;Curso Técnico em Farmácia;4;0;1;1;2;;20;F;1;Zabelê;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230030;Bruna Rafaela dos Santos Silva;Curso Técnico em Farmácia;4;0;0;0;0;;33;F;1;Zabelê;Vitória da Conquista;0;FMC05-N;PC;0;1;0;MT;Matriculado;9
+FMC230017;Tainá Lemos Silva;Curso Técnico em Farmácia;4;0;1;1;1;;20;F;1;Terra do Remanso;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230018;Poliana Oliveira Paiva;Curso Técnico em Farmácia;4;0;0;0;0;;27;F;1;Pradoso;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230010;Bruna Cardoso de Oliveira;Curso Técnico em Farmácia;4;0;0;0;2;;18;F;1;Centro;Cândido Sales;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230011;Vanessa Moreira Dias;Curso Técnico em Farmácia;4;0;0;0;0;;29;F;1;Espírito Santo;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230012;Fernanda Almeida Rocha;Curso Técnico em Farmácia;4;0;0;0;0;;22;F;1;Patagônia;Vitória da Conquista;0;FMC05-N;PC;0;0;1;MT;Matriculado;9
+FMC230013;Mário Lopes Vieira Ferreira;Curso Técnico em Farmácia;4;0;0;0;0;;19;M;0;Espírito Santo;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230014;Natielle Rocha Santos;Curso Técnico em Farmácia;4;0;0;0;0;;26;F;1;Boa Vista;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230007;Anne Stefany Teixeira Venturini;Curso Técnico em Farmácia;4;0;2;0;0;;18;F;1;Ibirapuera;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC230008;Lorena Nogueira Ramos;Curso Técnico em Farmácia;4;0;0;0;0;;25;F;1;Zabelê;Vitória da Conquista;0;FMC05-N;0;0;0;0;MT;Matriculado;9
+FMC250031;Manuele Santana Santos;Curso Técnico em Farmácia;1;0;0;0;0;;19;F;1;Centro;Encruzilhada;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250032;Pedro Caique Guimarães Braga;Curso Técnico em Farmácia;1;0;0;0;0;;16;M;0;Centro;Planalto;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250033;Maria Eduarda da Silva Brito;Curso Técnico em Farmácia;1;0;0;0;0;;16;F;1;Centro;Planalto;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250034;Érica Medeiros Santos Silva;Curso Técnico em Farmácia;1;0;0;0;0;;37;F;1;Brasil;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC240083;Emile Caroline Silva Lima;Curso Técnico em Farmácia;1;0;0;0;0;;22;F;1;Boa Vista;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250005;Arthur Oliveira de Jesus;Curso Técnico em Farmácia;1;0;0;0;0;;16;M;0;Patagônia;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250006;Daniela dos Santos Nascimento ;Curso Técnico em Farmácia;1;0;0;0;0;;33;F;1;Patagônia;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250007;Sirlande Bastos Santos ;Curso Técnico em Farmácia;1;0;0;0;0;;42;F;1;Alto Maron;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250009;Leide Lane Dias Batista;Curso Técnico em Farmácia;1;0;0;0;0;;22;F;1;Jardim Sudoeste ;Cidade Maravilhosa ;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250010;Ana Clara Santana dos Santos;Curso Técnico em Farmácia;1;0;0;0;0;;19;F;1;Alto Maron;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250013;Ricardo Miranda de Araújo de Carvalho;Curso Técnico em Farmácia;1;0;0;0;0;;19;M;0;Morada dos Passaros III;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250014;Lilian Grima Santos;Curso Técnico em Farmácia;1;0;0;0;0;;19;F;1;Airton Senna;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250015;Jenniffer de Sousa Dias Costa;Curso Técnico em Farmácia;1;0;0;0;0;;18;F;1;Centro;Piripá;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250016;Jhenniff Kely Batista Coelho;Curso Técnico em Farmácia;1;0;0;0;0;;21;F;1;São Pedro;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250017;Bianca Silva Batista ;Curso Técnico em Farmácia;1;0;0;0;0;;26;F;1;Bateias ;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250018;Thaís Marinho Santos;Curso Técnico em Farmácia;1;0;0;0;0;;26;F;1;Guarani;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250019;Cléia de Jesus Santos;Curso Técnico em Farmácia;1;0;0;0;0;;24;F;1;Centro;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250020;Antonio Carlos Pereira da Silva;Curso Técnico em Farmácia;1;0;0;0;0;;19;M;0;Cruzeiro;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250022;Daniela de Souza Barreiro;Curso Técnico em Farmácia;1;0;0;0;0;;31;F;1;Centro;Ribeirão do Largo;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250026;Jeane Araujo de Oliveira;Curso Técnico em Farmácia;1;0;0;0;0;;30;F;1;Simão;Vitória da Conquista;0;FMC09-N;0;0;0;0;MT;Matriculado;9
+FMC250027;Letícia dos Santos Vieira;Curso Técnico em Farmácia;1;0;0;0;0;;19;F;1;Cruzeiro;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250028;Ana Victória Sousa Gomes;Curso Técnico em Farmácia;1;0;0;0;0;;19;F;1;Centro;Divisa Alegre;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+FMC250029;Paula Marciana Santos Rocha;Curso Técnico em Farmácia;1;0;0;0;0;;38;F;1;Jatoba;Vitória da Conquista;0;FMC08-M;0;0;0;0;MT;Matriculado;9
+RAD240110;Giselle Souza Vieira;Curso Técnico em Radiologia;1;0;0;0;0;;20;F;1;Jurema;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD250007;Saulo Amorim Botelho;Curso Técnico em Radiologia;1;7;0;0;2;;48;M;0;Cruzeiro;Vitória da Conquista;0;RAD11-N;1;1;0;0;MT;Matriculado;9
+RAD250008;Luciana Viana dos Santos;Curso Técnico em Radiologia;1;7;0;0;1;;42;F;1;Cruzeiro;Vitória da Conquista;0;RAD11-N;1;1;0;0;MT;Matriculado;9
+RAD240113;Israel Santos Custódio;Curso Técnico em Radiologia;1;0;0;1;0;;29;M;0;Jurema;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240114;Neiva Carla Morais de Souza;Curso Técnico em Radiologia;1;0;0;0;0;;49;F;1;Ibirapuera;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240115;Lorena Vanessa Oliveira Carvalho;Curso Técnico em Radiologia;1;0;0;0;0;;43;F;1;Boa Vista;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240118;Sandrielle da Silva Santos;Curso Técnico em Radiologia;1;0;0;0;0;;22;F;1;Centro;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240119;Mariana Osorio Trindade Macedo;Curso Técnico em Radiologia;1;0;0;0;1;;34;F;1;Patagônia;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240122;Vinicius de Melo Rocha;Curso Técnico em Radiologia;1;0;1;0;0;;27;F;1;Alto Maron;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240123;Mateus Estrêla Maciel de Matos;Curso Técnico em Radiologia;1;0;0;0;0;;26;M;0;Felícia;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240124;Jair Ribeiro da Silva Pinto;Curso Técnico em Radiologia;1;0;0;1;0;;24;M;0;Boa Vista;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240126;Juraci Pereira da Silva Junior ;Curso Técnico em Radiologia;1;0;1;0;0;;32;M;0;São Pedro;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240127;Luciana Teixeira Ferraz;Curso Técnico em Radiologia;1;2;0;0;2;;43;F;1;Primavera;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240131;Marcos Vinícius Andrade Rocha;Curso Técnico em Radiologia;1;0;0;0;0;;19;M;0;Centro;Barra do Choça;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240135;Maria Idelclezia Moreira da Silva;Curso Técnico em Radiologia;1;0;1;0;0;;52;F;1;Senhorinha cairo;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240136;Lorena Silva Loureiro;Curso Técnico em Radiologia;1;1;1;1;0;;29;F;1;Ibirapuera;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240137;Rozimara Oliveira da Silva;Curso Técnico em Radiologia;1;0;1;0;0;;43;F;1;Centro;Vitória da Conquista;0;RAD11-N;1;1;0;0;MT;Matriculado;9
+RAD240138;Fernanda Santos Oliveira ;Curso Técnico em Radiologia;1;1;0;1;0;;29;F;1;Espirito Santos ;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240143;Elizângela Novaes de Oliveira;Curso Técnico em Radiologia;1;1;0;1;0;;41;F;1;Centro;Pradoso;0;RAD11-N;0;0;0;1;MT;Matriculado;9
+RAD240144;Renata Santos Pereira;Curso Técnico em Radiologia;1;1;0;0;0;;38;F;1;Sao Pedro;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240145;Jonathan Alves de Brito;Curso Técnico em Radiologia;1;0;1;0;0;;21;M;0;Vila América;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240146;Gustavo Lima Dias;Curso Técnico em Radiologia;1;0;0;0;0;;19;M;0;Cidade Maravilhosa;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240147;Joelma Silva Melo;Curso Técnico em Radiologia;1;1;1;0;0;;34;F;1;Recreio ;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240148;Yarlla Rocha Ribeiro;Curso Técnico em Radiologia;1;0;0;0;0;;35;F;1;Conde II Universidade;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240140;Kaua Cerqueira Porto;Curso Técnico em Radiologia;1;0;1;0;0;;18;M;0;Zabelê;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240141;Brenda Ribeiro Italiano de Almeida;Curso Técnico em Radiologia;1;0;0;1;0;;26;F;1;Kadija;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240151;Thaís Pereira da Silva;Curso Técnico em Radiologia;1;7;0;0;2;;36;F;1;Primavera;Vitória da Conquista;0;RAD11-N;1;1;0;0;MT;Matriculado;9
+RAD240152;Graziele Miranda Santos;Curso Técnico em Radiologia;1;0;1;0;0;;19;M;0;Rural;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240153;Elza Figueredo Pereira;Curso Técnico em Radiologia;1;0;1;0;0;;23;F;1;Centro;Tremedal;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240155;Luís Carlos Queiroz dos Santos;Curso Técnico em Radiologia;1;0;0;0;0;;22;M;0;Primavera;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240156;Reinan Santos Pinheiro;Curso Técnico em Radiologia;1;0;0;1;0;;32;M;0;Jurema;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240158;Gabriel Saraiva Silva;Curso Técnico em Radiologia;1;0;0;0;0;;25;M;0;Ibirapuera;Vitória da Conquista;0;RAD11-N;1;1;0;0;MT;Matriculado;9
+RAD240159;Beatriz Riso Silva;Curso Técnico em Radiologia;1;0;0;0;0;;23;F;1;Centro;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240161;Jurandir dos Santos Silva;Curso Técnico em Radiologia;1;0;2;0;0;;34;M;0;Brasil;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240162;Mariana Lima Silva;Curso Técnico em Radiologia;1;0;0;0;0;;23;F;1;Candeias;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD240181;Valcleia Alves Rodrigues da Silva;Curso Técnico em Radiologia;1;0;1;0;0;;47;F;1;Guarani;Vitória da Conquista;0;RAD11-N;0;0;0;0;MT;Matriculado;9
+RAD210045;Jeferson Soares Souza;Curso Técnico em Radiologia;4;0;0;0;14;;29;M;0;Candeias-Recreio;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210064;Elisângela dos Santos Teixeira;Curso Técnico em Radiologia;4;0;0;0;1;;27;F;1;Centro-São João Batista;Anagé;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210091;Ana Paula Costa Santos;Curso Técnico em Radiologia;4;0;0;0;0;;30;F;1;Brasil;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210102;Maria Nara Campos Gomes;Curso Técnico em Radiologia;4;0;1;0;0;;46;F;1;Boa Vista-Condominio Morada Guanabara ;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210098;Gabriel Sousa de Jesus;Curso Técnico em Radiologia;4;0;1;0;5;;26;F;1;Boa Vista;Vitória da Conquista;0;RAD08-N;1;1;0;0;MT;Matriculado;9
+RAD210099;Alisson Pereira Oliveira;Curso Técnico em Radiologia;4;0;1;0;6;;28;M;0;Candeias;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210088;Fernanda Felix Barros ;Curso Técnico em Radiologia;4;0;3;0;1;;24;F;1;Felicia;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210080;Bianca Ribeiro Araújo;Curso Técnico em Radiologia;4;0;3;0;0;;26;F;1;Zabelê;Vitória da Conquista;0;RAD08-N;1;1;0;0;MT;Matriculado;9
+RAD210073;Gabriel Morais Santos;Curso Técnico em Radiologia;4;0;0;0;4;;29;M;0;Jatobá-Comveima;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210071;Gabriela Oliveira Silva;Curso Técnico em Radiologia;4;0;3;3;1;;25;F;1;Alto Maron;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200097;Andressa Santos da Silva;Curso Técnico em Radiologia;4;0;1;0;0;;33;F;1;Espírito Santo;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200072;Joelma Santos Alves;Curso Técnico em Radiologia;4;0;0;0;0;;30;F;1;Jatobá;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200052;Henrique Jesus Aguiar Lima de Almeida Paixão;Curso Técnico em Radiologia;4;0;1;0;1;;36;M;0;Patagônia;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200056;Mônica Silva Matos;Curso Técnico em Radiologia;4;0;0;0;0;;33;F;1;Morada Real;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200015;Danielle Nascimento Bispo;Curso Técnico em Radiologia;4;0;0;0;0;;31;F;1;Patagônia;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200028;Ana Paula Silva Santos;Curso Técnico em Radiologia;4;0;3;0;3;;34;F;1; Simão;Vitória da Conquista;0;RAD07-N;1;1;0;0;MT;Matriculado;9
+RAD200007;Renan dos Santos Correia;Curso Técnico em Radiologia;4;0;0;0;0;;26;M;0;Bateias;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD200025;Karolaine Santos;Curso Técnico em Radiologia;4;0;1;0;0;;25;F;1;Simão;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD230092;Germiria Araujo Brito Oliveira;Curso Técnico em Radiologia;4;0;0;0;1;;45;F;1;Recreio;Vitória da Conquista;0;RAD08-N;1;1;0;0;MT;Matriculado;9
+RAD230098;Maria Alice Alves Garcia;Curso Técnico em Radiologia;4;0;0;1;0;;25;F;1;Nova Cidade;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230080;Marlon Arruda de Sousa Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;21;M;0;Jurema;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230081;Karyn Ribeiro Viega ;Curso Técnico em Radiologia;4;0;0;0;0;;34;M;0;Miro Cairo;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230082;Jusciele Alves Paiva;Curso Técnico em Radiologia;4;0;0;0;0;;24;F;1;Boa Vista;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230086;Luciana Santana Santos Cordeiro;Curso Técnico em Radiologia;4;0;0;0;1;;43;F;1;Espírito Santo;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230087;Joaldo da Silva Bomfim;Curso Técnico em Radiologia;4;0;0;0;0;;41;M;0;Zabelê;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230076;Josemilson Silva de Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;37;M;0;Brasil;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230049;Breno Santos Teles;Curso Técnico em Radiologia;4;0;0;0;0;;22;M;0;Guarani;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230105;Juan Carlos Souza Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;23;M;0;Espírito Santo;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230113;Rafaela Novais da Silva;Curso Técnico em Radiologia;4;0;2;0;0;;31;F;1;Guarani;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230122;Ketllym Pereira Coelho ;Curso Técnico em Radiologia;4;0;0;0;0;;26;F;1;Espírito Santo;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230123;Weliton Dias Silva Santos;Curso Técnico em Radiologia;4;0;0;0;0;;40;M;0;Patagônia;Vitória da Conquista;0;RAD08-N;1;1;0;0;MT;Matriculado;9
+RAD230124;Amanda de Jesus Santos;Curso Técnico em Radiologia;4;0;0;0;0;;24;F;1;Centro;Inhobim;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230131;Beatriz Caires de Oliveira;Curso Técnico em Radiologia;4;0;0;0;1;;20;F;1;Espírito Santo;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230065;Talita Silva Santos Ribeiro;Curso Técnico em Radiologia;4;0;0;0;0;;32;F;1;Patagônia;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230066;Marta Santana Santos;Curso Técnico em Radiologia;4;0;0;0;3;;28;F;1;Felícia;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230063;Gaysley Freire Campos Santos;Curso Técnico em Radiologia;4;0;0;0;0;;38;F;1;Patagônia;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230056;Silvani de Sousa Oliveira Santos;Curso Técnico em Radiologia;4;0;0;0;0;;35;F;1;Alto do Panorama 2;Vitória da Conquista;0;RAD08-N;PC;0;0;1;MT;Matriculado;9
+RAD230057;Mariana Silva Santos;Curso Técnico em Radiologia;4;0;0;0;0;;24;F;1;Ibirapuera;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230058;Welber Pereira Tavares;Curso Técnico em Radiologia;4;0;0;0;0;;24;M;0;Alto Maron;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230051;Gilberto Oliveira Chaves Neto;Curso Técnico em Radiologia;4;0;0;0;1;;28;M;0;Candeias;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230047;Fernanda Sousa Santos;Curso Técnico em Radiologia;4;0;0;0;2;;21;F;1;Candeias;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230044;Sheila Santos Batista Roldão;Curso Técnico em Radiologia;4;0;2;0;0;;33;F;1;Felícia;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230045;Mikaella Santana Sousa;Curso Técnico em Radiologia;4;0;0;0;2;;21;F;1;Patagônia;Vitória da Conquista;0;RAD07-N;1;1;0;0;MT;Matriculado;9
+RAD230041;Vanda Vitória dos Santos Chaves;Curso Técnico em Radiologia;4;0;1;0;5;;25;F;1;Alto Maron;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230028;Maria Eduarda Souza Morais;Curso Técnico em Radiologia;4;0;0;0;0;;22;F;1;Alto Maron;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230029;Maria Clara Souza Morais;Curso Técnico em Radiologia;4;0;0;0;0;;21;F;1;Alto Maron;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230024;Tainara Santos Silva;Curso Técnico em Radiologia;4;0;0;0;0;;28;F;1;Espírito Santo;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230022;Giovanni Moreira Lima;Curso Técnico em Radiologia;4;0;0;0;0;;39;M;0;Centro;Itambé;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230016;Mislene Pereira Silva;Curso Técnico em Radiologia;4;0;0;0;0;;26;F;1;Centro;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230017;Alessandra Dias Souza;Curso Técnico em Radiologia;4;0;0;0;0;;33;F;1;Centro;Barra do Choça;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230008;Bruna Oliveira Silva;Curso Técnico em Radiologia;4;0;0;0;0;;25;F;1;Espírito Santo;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD220139;Eloisa Rodrigues de Carvalho Macena;Curso Técnico em Radiologia;4;0;0;0;0;;33;F;1;Centro;Barra do Choça;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD230011;Micaela dos Santos Pires;Curso Técnico em Radiologia;4;0;0;0;0;;30;F;1;Patagônia;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230012;Antônio Marcos Nascimento Parra;Curso Técnico em Radiologia;4;0;0;0;3;;24;M;0;Alto Maron;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD230013;Geovani Gusmão de Souza;Curso Técnico em Radiologia;4;0;0;0;0;;33;M;0;Zabelê / Urbis 5;Vitória da Conquista;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230014;Gustavo Moura Correia;Curso Técnico em Radiologia;4;0;1;1;5;;23;F;1;Cruzeiro;Vitória da Conquista;0;RAD07-N;1;1;0;0;MT;Matriculado;9
+RAD230004;Rosilene da Silva Lima;Curso Técnico em Radiologia;4;0;0;0;0;;28;F;1;Centro;Cândido Sales;0;RAD07-N;0;0;0;0;MT;Matriculado;9
+RAD230005;Ana Clara Brito de Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;25;F;1;Brasil;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220147;Vinicius Dias de Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;23;M;0;Brasil;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220148;Larisse Sousa Oliveira;Curso Técnico em Radiologia;4;0;0;0;0;;29;F;1;Distrito Industrial;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220031;Bruno Almeida Santos;Curso Técnico em Radiologia;4;0;2;0;2;;26;M;0;Guarani;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220038;Kayke Oswald Silva Barbosa;Curso Técnico em Radiologia;4;0;2;1;0;;20;M;0;Boa Vista;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220068;Sara Luize Sampaio Pinho de Jesus;Curso Técnico em Radiologia;4;0;3;0;0;;23;F;1;Alto Maron;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220033;Clara Aguiar Cruz;Curso Técnico em Radiologia;4;0;1;0;1;;22;F;1;Centro;Barra do Choça;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220059;Micaely Alves de Oliveira Santos;Curso Técnico em Radiologia;4;0;0;0;2;;21;F;1;Ibirapuera;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220060;Antonio Marcos Silva Santos;Curso Técnico em Radiologia;4;0;1;0;2;;35;M;0;Zabelê;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD210121;Franklin Sousa França;Curso Técnico em Radiologia;4;0;1;0;0;;25;M;0;Nova Cidade;Vitória da Conquista;0;RAD08-N;1;1;0;0;MT;Matriculado;9
+RAD210110;Leiliane Vieira Santos;Curso Técnico em Radiologia;4;0;2;0;0;;28;F;1;Jurema;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220001;Camila Santos da Silva ;Curso Técnico em Radiologia;4;0;1;0;0;;27;F;1;Centro;Cândido Sales;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220002;Elane Almeida Carvalho;Curso Técnico em Radiologia;4;0;0;0;9;;31;F;1;Centro;Anagé;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220003;Mateus de Souza Santos Bastos;Curso Técnico em Radiologia;4;0;0;0;0;;23;M;0;Boa Vista-Cond.Residencial vila Roma;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220004;karine Fernandes dos Santos;Curso Técnico em Radiologia;4;0;0;0;2;;45;F;1;Jurema;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220008;Cauã Domingues Sousa Silva;Curso Técnico em Radiologia;4;0;1;0;0;;21;F;1;Alto Maron;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220009;Marcos Antonio Soares de Sousa;Curso Técnico em Radiologia;4;0;1;0;0;;22;F;1;Brasil;Vitória da Conquista;0;RAD08-N;PC;0;0;0;MT;Matriculado;9
+RAD220137;Silvany Pereira da Silva Sales;Curso Técnico em Radiologia;4;0;1;0;0;;42;F;1;Bateias;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220134;Alisson Linnique Alves dos Santos;Curso Técnico em Radiologia;4;0;0;0;0;;31;M;0;Patagônia;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220127;Gabriel Nogueira Silva;Curso Técnico em Radiologia;4;0;0;0;11;;25;M;0;Alto Maron;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220122;Ana Cláudia Barreto Batista Paiva;Curso Técnico em Radiologia;4;0;0;0;0;;37;F;1;Nossa Senhora Aparecida;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220123;Iury Moreira Santos;Curso Técnico em Radiologia;4;0;0;0;0;;34;M;0;Felícia;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD220100;Fernanda Campos Silva;Curso Técnico em Radiologia;4;0;0;0;2;;25;F;1;Boa Vista-Loteamento Conquistense;Vitória da Conquista;0;RAD04-M;PC;0;0;0;MT;Matriculado;9
+RAD220096;Flavia Dias Silva;Curso Técnico em Radiologia;4;0;0;0;2;;28;F;1;São Pedro-Henriqueta Prates;Vitória da Conquista;0;RAD04-M;PC;0;0;0;MT;Matriculado;9
+RAD220088;João Paulo Silva Nogueira;Curso Técnico em Radiologia;4;0;0;0;1;;25;M;0;Alto Maron;Vitória da Conquista;0;RAD07-N;PC;0;0;0;MT;Matriculado;9
+RAD230152;Eveline Amanda do Nascimento;Curso Técnico em Radiologia;3;0;0;0;0;;39;F;1;Felícia;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230153;Patrícia Viana Santos;Curso Técnico em Radiologia;3;0;0;0;0;;29;F;1;Alto da Boa Vista;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD230148;Cleia Silva de Sá;Curso Técnico em Radiologia;3;0;0;0;0;;42;F;1;Espírito Santo;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD230143;Mileide Rocha Santos;Curso Técnico em Radiologia;3;0;0;0;0;;24;F;1;Boa Vista;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD230144;Islária da Silva Coelho;Curso Técnico em Radiologia;3;0;1;0;1;;34;M;0;Espírito Santo;Vitória da Conquista;0;RAD10-N;1;1;0;0;MT;Matriculado;9
+RAD230162;Nadia Maria Viana;Curso Técnico em Radiologia;3;0;0;0;0;;42;F;1;Usina;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230156;Fabrícia Oliveira Teixeira;Curso Técnico em Radiologia;3;0;1;0;0;;28;F;1;Centro;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230157;Aline Rolim Marinho dos Santos;Curso Técnico em Radiologia;3;2;0;0;0;;37;F;1;Distrito Industrial;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD230166;Eliana Nunes Santos;Curso Técnico em Radiologia;3;0;0;0;0;;24;F;1;Centro;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230167;Letícia Rodrigues Oliveira;Curso Técnico em Radiologia;3;0;0;0;0;;36;F;1;Candeias;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230168;Juscelia Reis de Oliveira;Curso Técnico em Radiologia;3;0;0;0;0;;49;F;1;Zabelê;Vitória da Conquista;0;RAD10-N;1;1;0;0;MT;Matriculado;9
+RAD230164;Gean Alves Cordeiro Vieira;Curso Técnico em Radiologia;3;0;0;0;0;;25;M;0;Bateias;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230170;Aldeides Cunha Sobrinho;Curso Técnico em Radiologia;3;0;1;0;0;;37;F;1;Centro;Barra do Choça;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240017;Flavio de Jesus Nascimento;Curso Técnico em Radiologia;3;0;0;0;0;;20;F;1;Centro;Barra do Choça;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240018;Gilson Ribeiro de Jesus;Curso Técnico em Radiologia;3;0;0;0;0;;36;M;0;Felícia;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240019;Amanda Lima Costa de Sousa;Curso Técnico em Radiologia;3;0;0;0;1;;26;F;1;Centro;Cândido Sales;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240020;Karine Alves Soares;Curso Técnico em Radiologia;3;0;0;0;0;;28;F;1;Boa Vista;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240011;Eric Santos Andrade;Curso Técnico em Radiologia;3;0;1;0;2;;25;F;1;Guarani;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240008;Vitor Hugo Alves Moreira;Curso Técnico em Radiologia;3;0;0;0;0;;28;M;0;Ibirapuera;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240013;Gardenia Rocha Santos;Curso Técnico em Radiologia;3;0;0;0;0;;36;F;1;Boa Vista;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240031;Milca Moreira Dias;Curso Técnico em Radiologia;3;0;0;0;0;;30;F;1;Patagonia;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240035;Schirlei França de Oliveira;Curso Técnico em Radiologia;3;0;1;0;0;;27;F;1;Boa Vista;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240036;Felipe Jesus Almeida;Curso Técnico em Radiologia;3;0;0;0;0;;32;M;0;Centro;Tremedal;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240022;Miriele Pereira Balbino;Curso Técnico em Radiologia;3;0;0;0;0;;22;F;1;Cruzeiro;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240028;Aislan Teixeira Casado;Curso Técnico em Radiologia;3;0;0;0;3;;31;M;0;Primavera;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240070;Ikaro Silva Leal;Curso Técnico em Radiologia;3;0;0;0;0;;37;M;0;Guarani;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240071;Ailma Souza Bonfim;Curso Técnico em Radiologia;3;0;0;0;0;;29;F;1;Candeias;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240072;Leticia dos Santos Oliveira;Curso Técnico em Radiologia;3;0;0;0;0;;20;F;1;Zabele;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240068;Washington Alves de Aguiar;Curso Técnico em Radiologia;3;0;0;0;2;;34;M;0;Centro;Presidente Jânio Quadros;0;RAD10-N;1;1;0;0;MT;Matriculado;9
+RAD240066;Rebeca Pereira Sousa;Curso Técnico em Radiologia;3;0;0;0;0;;23;F;1;Simão;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240064;Keven Gomes Marinho ;Curso Técnico em Radiologia;3;0;0;0;1;;21;M;0;Zona Rural;Campo Formoso;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240047;Jéssica da Conceição de Souza;Curso Técnico em Radiologia;3;0;0;0;0;;34;F;1;Ibirapuera;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240048;Maricélia Souza Silva Ferraz;Curso Técnico em Radiologia;3;0;0;0;0;;33;F;1;Jatobá;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240055;Carine da Silva Brito;Curso Técnico em Radiologia;3;0;0;0;0;;19;F;1;Espírito Santo;Vitória da Conquista;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240040;Roberta Amaral dos Santos;Curso Técnico em Radiologia;3;0;0;0;0;;36;F;1;Centro;Anagé;0;RAD09-M;0;0;0;0;MT;Matriculado;9
+RAD240041;Janaina Santos da Hora;Curso Técnico em Radiologia;3;0;0;0;0;;30;F;1;Campinhos;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240044;Indira Benicio dos Santos Leal;Curso Técnico em Radiologia;3;0;0;0;0;;39;F;1;Recreio;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240092;Jeovana Carvalho Santos;Curso Técnico em Radiologia;3;0;0;1;1;;21;F;1;Guarani;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240087;Maria Barbosa Pina Santos;Curso Técnico em Radiologia;3;0;1;0;0;;45;F;1;Centro - Ouro Verde;Barra do Choça;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240095;Soraia Silva Malta;Curso Técnico em Radiologia;3;0;0;0;0;;37;F;1;Espírito Santo;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240096;Adriana Rosa Soares dos Santos;Curso Técnico em Radiologia;3;0;0;0;0;;52;F;1;Centro;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240075;Anita Vitória Moreira Barros;Curso Técnico em Radiologia;3;0;0;0;0;;22;F;1;Lagoa das Flores;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240077;Tarcisio Ribeiro Azevedo;Curso Técnico em Radiologia;3;0;1;0;0;;25;M;0;Jurema;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD240084;Thierre Lezi Ferreira Dias;Curso Técnico em Radiologia;3;0;0;1;1;;28;M;0;Patagônia;Vitória da Conquista;0;RAD10-N;0;0;0;0;MT;Matriculado;9
+RAD230015;Michelle Nunes da Silva;Curso Técnico em Radiologia;1;0;1;1;0;;24;F;1;Guarani;Vitória da Conquista;1;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD240188;Silvaneide Almeida Santos;Curso Técnico em Radiologia;1;0;0;0;0;;48;F;1;Primavera;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250018;Jusciana Peixoto Amaral;Curso Técnico em Radiologia;1;0;0;0;1;;44;F;1;Patagônia;Vitória da Conquista;0;RAD12-N;1;1;0;0;MT;Matriculado;9
+RAD250016;Kauã Vitor Moreira Dias dos Santos;Curso Técnico em Radiologia;1;0;0;0;2;;19;M;0;Campinhos;Vitória da Conquista;0;RAD12-N;1;1;0;0;MT;Matriculado;9
+RAD250011;Gabriele Miranda Meira;Curso Técnico em Radiologia;1;0;0;0;0;;19;F;1;Jatobá;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250012;Luiza Feitoza Machado;Curso Técnico em Radiologia;1;0;0;0;0;;19;F;1;Felícia (Morada dos Passaros III);Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250013;Tainá Dias dos Santos;Curso Técnico em Radiologia;1;0;0;0;0;;29;F;1;Zabelê;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250014;Jéssica Raiane Silva Santos;Curso Técnico em Radiologia;1;0;0;0;0;;26;F;1;Alto Maron;Vitória da Conquista;0;RAD12-N;1;1;0;0;MT;Matriculado;9
+RAD250037;Guilherme de Jesus Moreira Lemos;Curso Técnico em Radiologia;1;0;0;0;0;;21;M;0;Boa Vista;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250038;Juliana Cerqueira Santos;Curso Técnico em Radiologia;1;0;0;0;0;;38;F;1;Primavera;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250039;Flavio dos Santos Oliveira;Curso Técnico em Radiologia;1;0;0;0;0;;36;M;0;Zona Rural;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250040;Viktor Souza Lima;Curso Técnico em Radiologia;1;0;0;0;0;;28;M;0;Boa Vista;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250041;Leticia Lopes Viana;Curso Técnico em Radiologia;1;0;0;0;0;;22;F;1;Alto Maron;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250042;Andreza Rodrigues Reis;Curso Técnico em Radiologia;1;0;0;0;0;;37;F;1;Felicia;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250043;Ivanete Leles Sousa Anjos;Curso Técnico em Radiologia;1;0;0;0;0;;36;F;1;Senhorinha Cairo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250044;Eduardo Barbosa Souza;Curso Técnico em Radiologia;1;0;0;0;0;;17;M;0;Jardim Copacabana;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250045;Emille Almeida Argolo Pena;Curso Técnico em Radiologia;1;0;0;0;0;;23;F;1;Brasil;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250046;Bruno Santos Vieira ;Curso Técnico em Radiologia;1;1;0;0;1;;27;M;0;Brasil;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250047;Geovanna dos Santos Fernandes;Curso Técnico em Radiologia;1;0;0;0;0;;18;F;1;Jatoba;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250049;Jaqueline Cordeiro Brito;Curso Técnico em Radiologia;1;0;0;0;0;;19;F;1;Area Rural de Vitoria da Conquista;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250020;Stefanni Ferraz Pereira;Curso Técnico em Radiologia;1;0;0;0;0;;25;F;1;Jurema;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250022;Daniele Ferreira Carvalho;Curso Técnico em Radiologia;1;0;0;0;0;;18;F;1;Patagônia;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250023;Nildaima dos Santos Pereira;Curso Técnico em Radiologia;1;0;0;0;1;;46;F;1;Senhorinha Cairo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250025;Manoela Chaves Gomes Matos;Curso Técnico em Radiologia;1;0;0;0;0;;17;F;1;Renato Magalhães;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250026;Sandrélia Almeida Oliveira;Curso Técnico em Radiologia;1;0;0;0;1;;26;F;1;Centro;Caraíbas;0;RAD12-N;1;1;0;0;MT;Matriculado;9
+RAD250027;Jonathan Cantilho Rosa;Curso Técnico em Radiologia;1;0;0;0;0;;31;M;0;Centro;Itambé;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250028;Artur Vinícius Gomes França;Curso Técnico em Radiologia;1;0;0;0;0;;26;M;0;Alto Maron;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250029;Isabela Lima Santos Silva;Curso Técnico em Radiologia;1;0;0;0;0;;20;F;1;Espírito Santo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250030;Letícia Silva Soares de Souza;Curso Técnico em Radiologia;1;0;0;0;0;;25;F;1;Centro;Presidente Jânio Quadros;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250031;Aurineia Soares Porto;Curso Técnico em Radiologia;1;0;0;0;0;;40;F;1;Alto Maron;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250032;Wendell Freitas Santos;Curso Técnico em Radiologia;1;0;0;0;1;;49;M;0;Universidade;Vitória da Conquista;0;RAD12-N;1;1;0;0;MT;Matriculado;9
+RAD250033;Jacqueline dos Santos Batista;Curso Técnico em Radiologia;1;0;0;0;0;;38;F;1;Espírito Santo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250034;Sthefany Lemos Novais;Curso Técnico em Radiologia;1;0;0;0;0;;20;F;1;Bateias;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250035;Mateus Henrique do Paraizo;Curso Técnico em Radiologia;1;0;0;0;1;;25;M;0;Formoso;Bom Jesus da Lapa;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250050;Roberta Rosane Aragão Martins;Curso Técnico em Radiologia;1;0;0;0;0;;27;F;1;Espírito Santo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250051;Letícia de Azevedo Furtuoso;Curso Técnico em Radiologia;1;0;0;0;0;;5;F;1;Felícia;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250052;Gabriel Costa Matos;Curso Técnico em Radiologia;1;0;0;0;0;;19;M;0;Espírito Santo;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD250053;Larissa dos Santos Andrade;Curso Técnico em Radiologia;1;0;0;0;0;;20;F;1;Lagoa das Flores;Vitória da Conquista;0;RAD12-N;0;0;0;0;MT;Matriculado;9
+RAD230089;Cristiane Nogueira Soares Sousa;Curso Técnico em Radiologia;4;0;0;0;0;;46;F;1;Cruzeiro;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+RAD230111;Fabiana Maria de Souza Santos;Curso Técnico em Radiologia;4;0;0;0;0;;37;F;1;Bateias;Vitória da Conquista;0;RAD08-N;0;0;0;0;MT;Matriculado;9
+STB230067;Vitor Santos Silva;Curso Técnico em Segurança do Trabalho;3;0;0;0;3;;22;M;0;Patagônia;Vitória da Conquista;0;STB06-N;1;1;0;0;MT;Matriculado;9
+STB230068;Caroliny Pereira da Silva;Curso Técnico em Segurança do Trabalho;3;0;0;1;3;;24;F;1;Centro;Lagoa Grande;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB230069;Gilberto Bomfim dos Santos;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;37;M;0;Centro;Barra do Choça;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240003;Jessica Mendes Silva;Curso Técnico em Segurança do Trabalho;3;1;1;0;1;;33;F;1;Brasil;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240021;Maria Fernanda Costa Meira;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;26;F;1;Centro;Barra do Choça;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240018;Luiz Fernando Nascimento Oliveira;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;25;M;0;Bateias;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240008;Romario Borges de Moura Dias;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;30;M;0;Brasil;Vitória da Conquista;0;STB06-N;0;0;0;1;MT;Matriculado;9
+STB240009;Vanessa Silva dos Santos;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;37;F;1;Ibirapuera;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240010;Bruno Pereira Bomfim;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;29;M;0;São Pedro;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240011;Ueslei de Sousa Novaes;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;31;M;0;Alto da Colina;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240028;Willian Victor Medeiros Silva;Curso Técnico em Segurança do Trabalho;3;0;0;0;1;;26;M;0;Centro;Itambé;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240038;Rafaela Lima Ribeiro de Sousa;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;25;F;1;Centro;Cândido Sales;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240039;Matheus Félix Oliveira;Curso Técnico em Segurança do Trabalho;3;0;0;1;0;;30;M;0;Brasil;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240026;Roberio Pereira Souza;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;42;M;0;Jurema;Vitória da Conquista;0;STB06-N;1;1;0;0;MT;Matriculado;9
+STB240030;Fabrício Cunha Sousa;Curso Técnico em Segurança do Trabalho;3;0;0;0;2;;43;F;1;Zabelê;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240031;Jeferson Sousa Pereira;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;21;M;0;Centro;Tremedal;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240032;Brenda Borges Ribeiro;Curso Técnico em Segurança do Trabalho;3;0;0;0;0;;31;F;1;Sao Pedro;Vitória da Conquista;0;STB06-N;0;0;0;0;MT;Matriculado;9
+STB240040;Alan Luciano Lima;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;30;M;0;VILA SERRANA II;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240045;Silmara de Jesus Fernandes;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;22;F;1;Ibirapuera;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240047;Pedro Fábio Santos Muniz;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;19;M;0;Boa Vista;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240051;Sabrina Lima da Silva Lemos;Curso Técnico em Segurança do Trabalho;1;0;0;2;0;;33;F;1;Guarani;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240052;Carla Novais da Costa;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;24;F;1;Cidade Maravilhosa;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240056;Nivia Cerqueira Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;22;F;1;Zabelê;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250001;Ailton Carlos Moreira Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;57;M;0;Nossa Senhora Aparecida;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250002;Maicon Santos Silva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;28;M;0;Patagônia;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250003;Caetano Moraes Silva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;21;M;0;Alto Maron;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250004;Daniel Sanção Paraguaio;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;27;M;0;Espírito Santo;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250005;Thaíse da Silva Novaes;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;31;F;1;Jurema;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250006;Tailane Jesus da Conceição;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;31;F;1;Lagoa das Flores;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250007;Lourival Vieira da Silva Júnior;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;20;M;0;Vila Elisa;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250008;Ronildo Diogo Freire Batista;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;23;M;0;Candeias;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250009;Tamires Silva Pereira;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;22;F;1;Centro;Planalto;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250011;Ericleidson Oliveira dos Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;29;M;0;Candeias;Vitória da Conquista;0;STB07-N;0;0;0;1;MT;Matriculado;9
+STB250012;Angela Prado da Silva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;19;F;1;Alvorada;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250013;Guilherme Ferreira Cerqueira;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;25;M;0;Campinhos;Vitória da Conquista;0;STB07-N;1;1;0;0;MT;Matriculado;9
+STB250014;André Souza Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;23;M;0;Ibirapuera;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250015;Moisés Barbalho Lima;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;25;M;0;Recreio;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250016;Cristiane Bomfim da Silva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;35;F;1;Alto Maron;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250017;Wilton Antonio dos Santos Celino de Souza;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;19;F;1;Boa Vista;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250018;Haiala Alves de Melo;Curso Técnico em Segurança do Trabalho;1;0;0;0;1;;45;F;1;Vila Elisa ;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250019;Lucas Fernandes dos Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;23;M;0;Centro;Barra do Choça;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250020;Sibelia Souza Paiva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;25;F;1;Boa Vista;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250021;Mônica Lima dos Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;41;F;1;Distrito Industrial;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250022;Adiel dos Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;1;;35;M;0;Patagônia;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250024;Luamar Oliveira da Silva Dias;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;21;F;1;Campinhos;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250025;Recímya Aparecida Ferreira Vivas;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;20;F;1;Centro;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250026;Adriele Mares Freire Meirelles;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;25;F;1;Centro;Barra do Choça;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB240049;Marcondes de Jesus Santos;Curso Técnico em Segurança do Trabalho;1;0;0;0;1;;30;M;0;Zabelê;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250028;William Almeida da Silva;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;19;F;1;Centro;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB250029;Thierry Hanry dos Santos Souza;Curso Técnico em Segurança do Trabalho;1;0;0;0;0;;18;M;0;Boa Vista;Vitória da Conquista;0;STB07-N;0;0;0;0;MT;Matriculado;9
+STB220043;Maicon Vinicius dos Santos Silva;Curso Técnico em Segurança do Trabalho;4;0;0;0;1;;28;M;0;Boa Vista;Vitória da Conquista;0;STB06-N;PC;0;0;0;MT;Matriculado;9
+STB220037;Alana da Silva Ferreira;Curso Técnico em Segurança do Trabalho;4;0;0;0;6;;28;F;1;Patagônia;Vitória da Conquista;0;STB05-N;PC;0;1;0;MT;Matriculado;9
+STB220034;Jéssica Teixeira da França;Curso Técnico em Segurança do Trabalho;4;0;0;0;8;;27;F;1;Zabelê-Senhorinha Cairo;Vitória da Conquista;0;STB05-N;PC;0;1;0;MT;Matriculado;9
+STB220052;Alane Nascimento Oliveira;Curso Técnico em Segurança do Trabalho;4;0;1;0;2;;28;F;1;Boa Vista;Vitória da Conquista;0;STB05-N;PC;0;0;0;MT;Matriculado;9
+STB220059;Christian Gusmão Jardim;Curso Técnico em Segurança do Trabalho;4;0;0;0;1;;55;M;0;Boa Vista;Vitória da Conquista;0;STB05-N;2;1;0;0;MT;Matriculado;9
+STB220050;Emerson Ribeiro dos Santos;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;25;M;0;Boa Vista;Vitória da Conquista;0;STB05-N;PC;0;0;0;MT;Matriculado;9
+STB230022;Raiana Santos Sousa;Curso Técnico em Segurança do Trabalho;4;0;1;0;1;;43;F;1;Campinhos;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230015;Christian França Palma;Curso Técnico em Segurança do Trabalho;4;0;1;1;1;;22;M;0;Brasil;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230006;Roni Alan Gomes Dos Santos;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;20;M;0;Brasil;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230036;Flávia Cristina Araújo;Curso Técnico em Segurança do Trabalho;4;0;1;0;0;;38;F;1;Zabelê;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230037;Camila Viana do Prado;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;29;F;1;Alto Maron;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230031;Edilane da Silva Brito;Curso Técnico em Segurança do Trabalho;4;0;1;0;0;;25;F;1;Centro;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230033;Washington Souza Silva;Curso Técnico em Segurança do Trabalho;4;0;0;3;3;;28;M;0;Patagônia;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230034;Marco Antônio Silva Correia;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;23;M;0;Centro;Tremedal;0;STB05-N;PC;0;0;1;MT;Matriculado;9
+STB230024;Livia Gonçalves Ramos Amorim;Curso Técnico em Segurança do Trabalho;4;0;1;0;1;;44;F;1;Alto Maron;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230017;Tatiane Soares Santos;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;39;F;1;Patagônia;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230059;Luisinho da Silva;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;45;M;0;Brasil;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230040;Angelica Tigre Ferraz ;Curso Técnico em Segurança do Trabalho;4;0;0;0;1;;25;F;1;Centro;São João da Vitória;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230042;Vanessa Almeida Brito;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;33;F;1;Jurema;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230044;Midiã Cristiane Meira Santos;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;21;F;1;Centro;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230046;Fabricio Silva de Oliveira;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;21;M;0;Boa Vista;Vitória da Conquista;0;STB05-N;0;0;0;0;MT;Matriculado;9
+STB230051;Maria do Carmo Santana;Curso Técnico em Segurança do Trabalho;4;0;0;0;1;;68;F;1;Felícia;Vitória da Conquista;0;STB04-M;0;0;0;0;MT;Matriculado;9
+STB230055;Igor Fagundes Santos;Curso Técnico em Segurança do Trabalho;4;0;0;1;7;;27;F;1;Alto Maron;Vitória da Conquista;0;STB04-M;0;0;0;0;MT;Matriculado;9
+STB230062;Jaqueline Silva Moreira;Curso Técnico em Segurança do Trabalho;4;0;0;0;0;;30;F;1;Candeias;Vitória da Conquista;0;STB04-M;0;0;0;0;MT;Matriculado;9
+STB230029;Maik Oliveira da Silva;Curso Técnico em Segurança do Trabalho;4;0;0;0;1;;23;F;1;Bateias;Vitória da Conquista;0;STB04-M;0;0;0;0;MT;Matriculado;9
