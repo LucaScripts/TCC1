@@ -120,12 +120,3 @@ Este projeto é parte integrante do Trabalho de Conclusão de Curso (TCC) do cur
 
 * **Lucas Dias da Silva**
   [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seuusuario)
-
----
-
-# 🚀
-
-## Quer que eu também te mande um `README.md` com algumas imagens (ex.: o gráfico das classes)? 🎨
-
-(pode deixar ele ainda mais visual e chamativo!)
-Quer? 🎯
