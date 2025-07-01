@@ -42,6 +42,25 @@ except ImportError:
     print(f"Erro: Não foi possível importar reverse_mapping_dict de 'mapeamento_classes.py' localizado em {paths['project_root']}")
     sys.exit(1)
 
+# Mapeamento de siglas para descrição completa da situação prevista
+SITUACAO_DESCRICAO_MAP = {
+    "CAN": "Cancelamento Normal",
+    "LFI": "Limpeza Financeira",
+    "FO": "Formado",
+    "CAC": "Cancelamento Comercial",
+    "MT": "Matriculado",
+    "CAI": "Cancelamento Interno",
+    "CAU": "Cancelamento Unidade",
+    "NC": "Nunca Compareceu",
+    "LAC": "Limpeza Academica",
+    "LFR": "Limpeza de Frequencia",
+    "NF": "Não Formados",
+    "TR": "Trancado",
+    "TF": "Transferência Interna",
+    "ES": "Em Espera",
+    # Adicione outros códigos se necessário
+}
+
 # Ordem Esperada das Features (Baseada nos scripts anteriores)
 EXPECTED_FEATURE_ORDER = [
     'Módulo atual', 
@@ -407,6 +426,17 @@ if __name__ == "__main__":
         print("Pulando adição de features SHAP ao relatório.")
     
     print("DataFrame final montado.")
+
+    # Adicionar colunas 'Idade' e 'Sexo' ao DataFrame final, se existirem no arquivo de entrada
+    if 'Idade' in df_new.columns:
+        df_final_predictions['Idade'] = df_new['Idade'].values
+    if 'Sexo' in df_new.columns:
+        df_final_predictions['Sexo'] = df_new['Sexo'].values
+
+    # Adicionar coluna com descrição completa da situação prevista
+    df_final_predictions['Situacao_Prevista_Descricao'] = [
+        SITUACAO_DESCRICAO_MAP.get(sigla, sigla) for sigla in df_final_predictions['Situacao_Prevista']
+    ]
 
     # == ETAPA 6: Salvar Relatório Final ==
     print("\n--- Etapa 6: Salvando Relatório Final ---")
